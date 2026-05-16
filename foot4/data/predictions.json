@@ -1,0 +1,357 @@
+{
+  "meta": {
+    "generated_at": "2026-05-16T12:00:00Z",
+    "next_update_at": "2026-05-16T18:00:00Z",
+    "training": {
+      "n_matches": 5421,
+      "date_range": "2023-08-01 → 2026-05-15",
+      "n_teams": 98
+    },
+    "model": "Dixon-Coles + Elo + Forme récente (ensemble pondéré)",
+    "params": {
+      "min_confidence": 0.65,
+      "combo_size": 4,
+      "dixon_coles_home_adv": 0.27,
+      "dixon_coles_rho": -0.085
+    },
+    "status": "ok"
+  },
+  "days": [
+    {
+      "date": "2026-05-16",
+      "is_today": true,
+      "fixtures_count": 7,
+      "fixtures": [
+        {
+          "home": "Liverpool",
+          "away": "Wolves",
+          "league": "E0",
+          "league_name": "Premier League",
+          "kickoff": "2026-05-16T15:30:00Z",
+          "xg": [2.14, 0.71],
+          "best_pick": {
+            "market": "1",
+            "selection": "Victoire Liverpool",
+            "probability": 0.784,
+            "fair_odds": 1.28
+          },
+          "top_markets": []
+        },
+        {
+          "home": "Bayern Munich",
+          "away": "Mainz",
+          "league": "D1",
+          "league_name": "Bundesliga",
+          "kickoff": "2026-05-16T13:30:00Z",
+          "xg": [2.65, 0.84],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.892,
+            "fair_odds": 1.12
+          },
+          "top_markets": []
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Getafe",
+          "league": "SP1",
+          "league_name": "La Liga",
+          "kickoff": "2026-05-16T19:00:00Z",
+          "xg": [2.31, 0.62],
+          "best_pick": {
+            "market": "1X",
+            "selection": "Real Madrid ou nul",
+            "probability": 0.886,
+            "fair_odds": 1.13
+          },
+          "top_markets": []
+        },
+        {
+          "home": "Inter",
+          "away": "Cagliari",
+          "league": "I1",
+          "league_name": "Serie A",
+          "kickoff": "2026-05-16T17:00:00Z",
+          "xg": [2.18, 0.78],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.842,
+            "fair_odds": 1.19
+          },
+          "top_markets": []
+        },
+        {
+          "home": "Paris SG",
+          "away": "Lorient",
+          "league": "F1",
+          "league_name": "Ligue 1",
+          "kickoff": "2026-05-16T19:00:00Z",
+          "xg": [2.42, 0.69],
+          "best_pick": {
+            "market": "1",
+            "selection": "Victoire Paris SG",
+            "probability": 0.768,
+            "fair_odds": 1.30
+          },
+          "top_markets": []
+        },
+        {
+          "home": "Marseille",
+          "away": "Lille",
+          "league": "F1",
+          "league_name": "Ligue 1",
+          "kickoff": "2026-05-16T19:00:00Z",
+          "xg": [1.42, 1.18],
+          "best_pick": {
+            "market": "12",
+            "selection": "Pas de nul",
+            "probability": 0.682,
+            "fair_odds": 1.47
+          },
+          "top_markets": []
+        },
+        {
+          "home": "Aston Villa",
+          "away": "Chelsea",
+          "league": "E0",
+          "league_name": "Premier League",
+          "kickoff": "2026-05-16T16:00:00Z",
+          "xg": [1.38, 1.62],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.751,
+            "fair_odds": 1.33
+          },
+          "top_markets": []
+        }
+      ],
+      "combo": {
+        "available": true,
+        "joint_probability": 0.5260,
+        "fair_combined_odds": 1.90,
+        "picks": [
+          {
+            "match": "Bayern Munich vs Mainz",
+            "league_name": "Bundesliga",
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.892,
+            "fair_odds": 1.12,
+            "xg": "2.65 – 0.84"
+          },
+          {
+            "match": "Real Madrid vs Getafe",
+            "league_name": "La Liga",
+            "market": "1X",
+            "selection": "Real Madrid ou nul",
+            "probability": 0.886,
+            "fair_odds": 1.13,
+            "xg": "2.31 – 0.62"
+          },
+          {
+            "match": "Inter vs Cagliari",
+            "league_name": "Serie A",
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.842,
+            "fair_odds": 1.19,
+            "xg": "2.18 – 0.78"
+          },
+          {
+            "match": "Liverpool vs Wolves",
+            "league_name": "Premier League",
+            "market": "1",
+            "selection": "Victoire Liverpool",
+            "probability": 0.784,
+            "fair_odds": 1.28,
+            "xg": "2.14 – 0.71"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "is_today": false,
+      "fixtures_count": 6,
+      "fixtures": [
+        {
+          "home": "Atalanta",
+          "away": "Genoa",
+          "league": "I1",
+          "league_name": "Serie A",
+          "kickoff": "2026-05-17T16:00:00Z",
+          "xg": [2.02, 0.92],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.812,
+            "fair_odds": 1.23
+          },
+          "top_markets": []
+        },
+        {
+          "home": "Barcelona",
+          "away": "Espanol",
+          "league": "SP1",
+          "league_name": "La Liga",
+          "kickoff": "2026-05-17T19:00:00Z",
+          "xg": [2.41, 0.72],
+          "best_pick": {
+            "market": "1",
+            "selection": "Victoire Barcelona",
+            "probability": 0.768,
+            "fair_odds": 1.30
+          },
+          "top_markets": []
+        },
+        {
+          "home": "Leverkusen",
+          "away": "Augsburg",
+          "league": "D1",
+          "league_name": "Bundesliga",
+          "kickoff": "2026-05-17T13:30:00Z",
+          "xg": [2.18, 0.81],
+          "best_pick": {
+            "market": "1X",
+            "selection": "Leverkusen ou nul",
+            "probability": 0.864,
+            "fair_odds": 1.16
+          },
+          "top_markets": []
+        },
+        {
+          "home": "Lyon",
+          "away": "Strasbourg",
+          "league": "F1",
+          "league_name": "Ligue 1",
+          "kickoff": "2026-05-17T17:00:00Z",
+          "xg": [1.62, 1.04],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.731,
+            "fair_odds": 1.37
+          },
+          "top_markets": []
+        },
+        {
+          "home": "Man City",
+          "away": "Brighton",
+          "league": "E0",
+          "league_name": "Premier League",
+          "kickoff": "2026-05-17T14:00:00Z",
+          "xg": [2.14, 1.04],
+          "best_pick": {
+            "market": "1",
+            "selection": "Victoire Man City",
+            "probability": 0.694,
+            "fair_odds": 1.44
+          },
+          "top_markets": []
+        },
+        {
+          "home": "Bologna",
+          "away": "Empoli",
+          "league": "I1",
+          "league_name": "Serie A",
+          "kickoff": "2026-05-17T19:00:00Z",
+          "xg": [1.48, 0.86],
+          "best_pick": {
+            "market": "1X",
+            "selection": "Bologna ou nul",
+            "probability": 0.762,
+            "fair_odds": 1.31
+          },
+          "top_markets": []
+        }
+      ],
+      "combo": {
+        "available": true,
+        "joint_probability": 0.4360,
+        "fair_combined_odds": 2.29,
+        "picks": [
+          {
+            "match": "Leverkusen vs Augsburg",
+            "league_name": "Bundesliga",
+            "market": "1X",
+            "selection": "Leverkusen ou nul",
+            "probability": 0.864,
+            "fair_odds": 1.16,
+            "xg": "2.18 – 0.81"
+          },
+          {
+            "match": "Atalanta vs Genoa",
+            "league_name": "Serie A",
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.812,
+            "fair_odds": 1.23,
+            "xg": "2.02 – 0.92"
+          },
+          {
+            "match": "Barcelona vs Espanol",
+            "league_name": "La Liga",
+            "market": "1",
+            "selection": "Victoire Barcelona",
+            "probability": 0.768,
+            "fair_odds": 1.30,
+            "xg": "2.41 – 0.72"
+          },
+          {
+            "match": "Bologna vs Empoli",
+            "league_name": "Serie A",
+            "market": "1X",
+            "selection": "Bologna ou nul",
+            "probability": 0.762,
+            "fair_odds": 1.31,
+            "xg": "1.48 – 0.86"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "is_today": false,
+      "fixtures_count": 2,
+      "fixtures": [
+        {
+          "home": "Reims",
+          "away": "Toulouse",
+          "league": "F1",
+          "league_name": "Ligue 1",
+          "kickoff": "2026-05-18T19:00:00Z",
+          "xg": [1.32, 1.18],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.654,
+            "fair_odds": 1.53
+          },
+          "top_markets": []
+        },
+        {
+          "home": "Hoffenheim",
+          "away": "Werder Bremen",
+          "league": "D1",
+          "league_name": "Bundesliga",
+          "kickoff": "2026-05-18T15:30:00Z",
+          "xg": [1.61, 1.32],
+          "best_pick": {
+            "market": "+2.5",
+            "selection": "3 buts ou plus",
+            "probability": 0.602,
+            "fair_odds": 1.66
+          },
+          "top_markets": []
+        }
+      ],
+      "combo": {
+        "available": false,
+        "reason": "Pas assez de sélections au-dessus de 65% de confiance (1 disponible, 4 requises)."
+      }
+    }
+  ]
+}

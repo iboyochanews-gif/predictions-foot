@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FOOT/4 — Combo prédictif quotidien</title>
+  <meta name="description" content="Algorithme prédictif football appliqué aux 5 ligues majeures européennes. Un combo 4 matchs proposé chaque jour quand les conditions sont réunies.">
+  <meta property="og:title" content="FOOT/4 — Combo prédictif quotidien">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght,SOFT@0,9..144,300..900,30..100;1,9..144,300..900,30..100&family=JetBrains+Mono:ital,wght@0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="grain" aria-hidden="true"></div>
+
+  <header class="masthead">
+    <div class="masthead__top">
+      <div class="logo">
+        FOOT<span class="logo__slash">/</span>4
+      </div>
+      <div class="masthead__meta">
+        <div class="meta-pair">
+          <span class="meta-label">Mise à jour</span>
+          <span class="meta-value" id="last-update">—</span>
+        </div>
+        <div class="meta-pair">
+          <span class="meta-label">Prochaine dans</span>
+          <span class="meta-value" id="countdown">—</span>
+        </div>
+      </div>
+    </div>
+    <div class="masthead__bottom">
+      <p class="tagline">
+        Combo prédictif <em>quotidien</em>, quatre sélections, cinq ligues majeures —
+        Premier League, La Liga, Serie A, Bundesliga, Ligue 1.
+      </p>
+      <p class="dateline" id="current-date">—</p>
+    </div>
+  </header>
+
+  <main>
+    <section class="combo" id="combo-section" aria-live="polite">
+      <header class="section-head">
+        <span class="section-num">§ 01</span>
+        <h2 class="section-title"><em>Combo</em> du jour</h2>
+        <span class="section-rule" aria-hidden="true"></span>
+      </header>
+      <div id="combo-body">
+        <div class="state state--loading">
+          <span class="state__dot"></span>
+          Chargement des prédictions…
+        </div>
+      </div>
+    </section>
+
+    <section class="fixtures" id="fixtures-section">
+      <header class="section-head">
+        <span class="section-num">§ 02</span>
+        <h2 class="section-title">Tous les <em>matchs</em></h2>
+        <span class="section-rule" aria-hidden="true"></span>
+      </header>
+      <div id="fixtures-body"></div>
+    </section>
+
+    <section class="methodology">
+      <header class="section-head">
+        <span class="section-num">§ 03</span>
+        <h2 class="section-title"><em>Méthodologie</em></h2>
+        <span class="section-rule" aria-hidden="true"></span>
+      </header>
+      <div class="meth-grid">
+        <article class="meth-card">
+          <h3 class="meth-card__title">Dixon-Coles</h3>
+          <p>
+            Modèle Poisson corrélé (Dixon &amp; Coles, 1997). Estime pour chaque
+            équipe une force d'attaque <span class="math">α</span> et une force
+            de défense <span class="math">β</span>, avec correction sur les
+            scores faibles. Pondération exponentielle des matchs anciens.
+          </p>
+          <p class="meth-card__params">
+            <span>Poids ensemble&nbsp;: <strong>60%</strong></span>
+            <span>Avantage domicile&nbsp;: <strong id="param-home-adv">—</strong></span>
+            <span>ρ (rho)&nbsp;: <strong id="param-rho">—</strong></span>
+          </p>
+        </article>
+        <article class="meth-card">
+          <h3 class="meth-card__title">Ratings Elo</h3>
+          <p>
+            Ratings glissants type FIFA Elo, mis à jour chronologiquement sur
+            toute la fenêtre d'entraînement avec multiplicateur d'écart de buts
+            et avantage domicile additif (+65 points).
+          </p>
+          <p class="meth-card__params">
+            <span>Poids ensemble&nbsp;: <strong>25%</strong></span>
+            <span>K-factor&nbsp;: <strong>20</strong></span>
+          </p>
+        </article>
+        <article class="meth-card">
+          <h3 class="meth-card__title">Forme récente</h3>
+          <p>
+            Signal complémentaire mesurant l'écart de points par match et de
+            différence de buts par match sur les 5 dernières rencontres de
+            chaque équipe.
+          </p>
+          <p class="meth-card__params">
+            <span>Poids ensemble&nbsp;: <strong>15%</strong></span>
+            <span>Fenêtre&nbsp;: <strong>5 matchs</strong></span>
+          </p>
+        </article>
+        <article class="meth-card meth-card--accent">
+          <h3 class="meth-card__title">Construction du combo</h3>
+          <p>
+            Pour chaque match, on retient la meilleure sélection dépassant
+            <strong>65% de probabilité</strong>. On garde ensuite les
+            <strong>4 matchs</strong> les plus confiants.
+          </p>
+          <p>
+            Si moins de 4 sélections passent ce seuil, aucun combo n'est
+            proposé&nbsp;: la discipline prime sur le volume.
+          </p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="footer-row">
+      <div class="footer-block">
+        <span class="meta-label">Modèle</span>
+        <span class="footer-block__value" id="model-name">—</span>
+      </div>
+      <div class="footer-block">
+        <span class="meta-label">Entraîné sur</span>
+        <span class="footer-block__value" id="training-info">—</span>
+      </div>
+      <div class="footer-block">
+        <span class="meta-label">Source données</span>
+        <span class="footer-block__value">football-data.co.uk · football-data.org</span>
+      </div>
+    </div>
+    <p class="disclaimer">
+      Prédictions statistiques à but informatif. Les paris sportifs comportent
+      un risque de perte ; un combo de 4 sélections, même bien choisi, gagne
+      mathématiquement moins d'une fois sur deux. Mise dans la limite de ce que
+      tu peux te permettre de perdre. Aide&nbsp;: 09&nbsp;74&nbsp;75&nbsp;13&nbsp;13
+      (joueurs-info-service.fr).
+    </p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
