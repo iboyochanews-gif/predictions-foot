@@ -1,0 +1,56 @@
+name: Update predictions
+
+on:
+  # Toutes les 6h pile : 00h, 06h, 12h, 18h UTC
+  schedule:
+    - cron: "0 */6 * * *"
+  # Permet de lancer manuellement depuis l'onglet Actions
+  workflow_dispatch:
+  # Premier run à chaque push sur main
+  push:
+    branches: [main]
+    paths:
+      - "algo/**"
+      - "scripts/**"
+      - ".github/workflows/update.yml"
+
+# Nécessaire pour permettre au workflow de committer dans le repo
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate predictions
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+          SEASONS_BACK: "3"
+          LOOKAHEAD_DAYS: "3"
+        run: python scripts/update_predictions.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/predictions.json
+          if git diff --cached --quiet; then
+            echo "Pas de changement dans predictions.json"
+          else
+            git commit -m "chore: update predictions $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
