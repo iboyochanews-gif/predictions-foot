@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-18T12:54:24Z",
-    "next_update_at": "2026-05-18T18:53:21Z",
+    "generated_at": "2026-05-18T21:56:55Z",
+    "next_update_at": "2026-05-19T03:55:47Z",
     "training": {
       "n_matches": 5178,
       "date_range": "2023-08-11 → 2026-05-14",
@@ -17,72 +17,6 @@
     "status": "ok"
   },
   "days": [
-    {
-      "date": "2026-05-18",
-      "is_today": true,
-      "fixtures_count": 1,
-      "fixtures": [
-        {
-          "home": "Arsenal",
-          "away": "Burnley",
-          "league": "E0",
-          "league_name": "Premier League",
-          "kickoff": "2026-05-18T19:00:00Z",
-          "xg": [
-            2.99,
-            0.51
-          ],
-          "best_pick": {
-            "market": "1X",
-            "selection": "Arsenal ou nul",
-            "probability": 0.9359,
-            "fair_odds": 1.07
-          },
-          "top_markets": [
-            {
-              "market": "1X",
-              "selection": "Arsenal ou nul",
-              "probability": 0.9359,
-              "fair_odds": 1.07
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.8813,
-              "fair_odds": 1.13
-            },
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.8663,
-              "fair_odds": 1.15
-            },
-            {
-              "market": "1",
-              "selection": "Victoire Arsenal",
-              "probability": 0.8172,
-              "fair_odds": 1.22
-            },
-            {
-              "market": "+2.5",
-              "selection": "3 buts ou plus",
-              "probability": 0.6788,
-              "fair_odds": 1.47
-            },
-            {
-              "market": "BTTS Non",
-              "selection": "Au moins un clean sheet",
-              "probability": 0.6176,
-              "fair_odds": 1.62
-            }
-          ]
-        }
-      ],
-      "combo": {
-        "available": false,
-        "reason": "Pas assez de sélections au-dessus de 65% de confiance (1 disponibles, 4 requises)."
-      }
-    },
     {
       "date": "2026-05-19",
       "is_today": false,
