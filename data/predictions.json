@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-21T18:30:38Z",
-    "next_update_at": "2026-05-22T00:29:29Z",
+    "generated_at": "2026-05-22T10:39:39Z",
+    "next_update_at": "2026-05-22T16:38:36Z",
     "training": {
       "n_matches": 5225,
       "date_range": "2023-08-11 → 2026-05-19",
@@ -19,7 +19,7 @@
   "days": [
     {
       "date": "2026-05-22",
-      "is_today": false,
+      "is_today": true,
       "fixtures_count": 1,
       "fixtures": [
         {
