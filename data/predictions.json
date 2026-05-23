@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-22T18:23:51Z",
-    "next_update_at": "2026-05-23T00:22:47Z",
+    "generated_at": "2026-05-23T08:33:52Z",
+    "next_update_at": "2026-05-23T14:32:49Z",
     "training": {
       "n_matches": 5225,
       "date_range": "2023-08-11 → 2026-05-19",
@@ -18,74 +18,8 @@
   },
   "days": [
     {
-      "date": "2026-05-22",
-      "is_today": true,
-      "fixtures_count": 1,
-      "fixtures": [
-        {
-          "home": "Fiorentina",
-          "away": "Atalanta",
-          "league": "I1",
-          "league_name": "Serie A",
-          "kickoff": "2026-05-22T18:45:00Z",
-          "xg": [
-            0.98,
-            1.23
-          ],
-          "best_pick": {
-            "market": "12",
-            "selection": "Pas de nul",
-            "probability": 0.7083,
-            "fair_odds": 1.41
-          },
-          "top_markets": [
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7083,
-              "fair_odds": 1.41
-            },
-            {
-              "market": "X2",
-              "selection": "Atalanta ou nul",
-              "probability": 0.6775,
-              "fair_odds": 1.48
-            },
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.6544,
-              "fair_odds": 1.53
-            },
-            {
-              "market": "-2.5",
-              "selection": "Moins de 3 buts",
-              "probability": 0.6197,
-              "fair_odds": 1.61
-            },
-            {
-              "market": "1X",
-              "selection": "Fiorentina ou nul",
-              "probability": 0.6143,
-              "fair_odds": 1.63
-            },
-            {
-              "market": "BTTS Non",
-              "selection": "Au moins un clean sheet",
-              "probability": 0.5513,
-              "fair_odds": 1.81
-            }
-          ]
-        }
-      ],
-      "combo": {
-        "available": false,
-        "reason": "Pas assez de sélections au-dessus de 65% de confiance (1 disponibles, 4 requises)."
-      }
-    },
-    {
       "date": "2026-05-23",
-      "is_today": false,
+      "is_today": true,
       "fixtures_count": 11,
       "fixtures": [
         {
