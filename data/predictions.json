@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T08:55:55Z",
-    "next_update_at": "2026-06-28T14:54:52Z",
+    "generated_at": "2026-06-28T13:51:03Z",
+    "next_update_at": "2026-06-28T19:50:02Z",
     "training": {
       "n_matches": 5256,
       "date_range": "2023-08-11 → 2026-05-24",
@@ -11,8 +11,8 @@
     "params": {
       "min_confidence": 0.65,
       "combo_size": 4,
-      "dixon_coles_home_adv": 0.212,
-      "dixon_coles_rho": -0.045
+      "dixon_coles_home_adv": 0.215,
+      "dixon_coles_rho": -0.046
     },
     "status": "ok"
   },
