@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T12:40:28Z",
-    "next_update_at": "2026-08-15T18:39:28Z",
+    "generated_at": "2026-08-15T18:32:04Z",
+    "next_update_at": "2026-08-16T00:31:08Z",
     "training": {
       "n_matches": 3525,
       "date_range": "2024-08-15 → 2026-08-10",
@@ -20,63 +20,8 @@
     {
       "date": "2026-08-15",
       "is_today": true,
-      "fixtures_count": 2,
+      "fixtures_count": 1,
       "fixtures": [
-        {
-          "home": "Alaves",
-          "away": "Getafe",
-          "league": "SP1",
-          "league_name": "La Liga",
-          "kickoff": "2026-08-15T17:30:00Z",
-          "xg": [
-            0.93,
-            0.82
-          ],
-          "best_pick": {
-            "market": "-2.5",
-            "selection": "Moins de 3 buts",
-            "probability": 0.7426,
-            "fair_odds": 1.35
-          },
-          "top_markets": [
-            {
-              "market": "-2.5",
-              "selection": "Moins de 3 buts",
-              "probability": 0.7426,
-              "fair_odds": 1.35
-            },
-            {
-              "market": "1X",
-              "selection": "Alaves ou nul",
-              "probability": 0.696,
-              "fair_odds": 1.44
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.6797,
-              "fair_odds": 1.47
-            },
-            {
-              "market": "BTTS Non",
-              "selection": "Au moins un clean sheet",
-              "probability": 0.6526,
-              "fair_odds": 1.53
-            },
-            {
-              "market": "X2",
-              "selection": "Getafe ou nul",
-              "probability": 0.6243,
-              "fair_odds": 1.6
-            },
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.5311,
-              "fair_odds": 1.88
-            }
-          ]
-        },
         {
           "home": "Sevilla",
           "away": "Vallecano",
@@ -135,7 +80,7 @@
       ],
       "combo": {
         "available": false,
-        "reason": "Pas assez de sélections au-dessus de 65% de confiance (2 disponibles, 4 requises)."
+        "reason": "Pas assez de sélections au-dessus de 65% de confiance (1 disponibles, 4 requises)."
       }
     },
     {
