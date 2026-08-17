@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T18:31:32Z",
-    "next_update_at": "2026-08-17T00:30:35Z",
+    "generated_at": "2026-08-17T01:20:32Z",
+    "next_update_at": "2026-08-17T07:19:31Z",
     "training": {
       "n_matches": 3525,
       "date_range": "2024-08-15 → 2026-08-10",
@@ -16,5 +16,72 @@
     },
     "status": "ok"
   },
-  "days": []
+  "days": [
+    {
+      "date": "2026-08-20",
+      "is_today": false,
+      "fixtures_count": 1,
+      "fixtures": [
+        {
+          "home": "Vallecano",
+          "away": "Alaves",
+          "league": "SP1",
+          "league_name": "La Liga",
+          "kickoff": "2026-08-20T19:00:00Z",
+          "xg": [
+            1.45,
+            0.94
+          ],
+          "best_pick": {
+            "market": "1X",
+            "selection": "Vallecano ou nul",
+            "probability": 0.7583,
+            "fair_odds": 1.32
+          },
+          "top_markets": [
+            {
+              "market": "1X",
+              "selection": "Vallecano ou nul",
+              "probability": 0.7583,
+              "fair_odds": 1.32
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7497,
+              "fair_odds": 1.33
+            },
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.6961,
+              "fair_odds": 1.44
+            },
+            {
+              "market": "-2.5",
+              "selection": "Moins de 3 buts",
+              "probability": 0.5718,
+              "fair_odds": 1.75
+            },
+            {
+              "market": "BTTS Non",
+              "selection": "Au moins un clean sheet",
+              "probability": 0.5272,
+              "fair_odds": 1.9
+            },
+            {
+              "market": "1",
+              "selection": "Victoire Vallecano",
+              "probability": 0.508,
+              "fair_odds": 1.97
+            }
+          ]
+        }
+      ],
+      "combo": {
+        "available": false,
+        "reason": "Pas assez de sélections au-dessus de 65% de confiance (1 disponibles, 4 requises)."
+      }
+    }
+  ]
 }
