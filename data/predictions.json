@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T06:58:20Z",
-    "next_update_at": "2026-08-17T12:57:18Z",
+    "generated_at": "2026-08-17T12:47:02Z",
+    "next_update_at": "2026-08-17T18:46:05Z",
     "training": {
       "n_matches": 3525,
       "date_range": "2024-08-15 → 2026-08-10",
@@ -11,8 +11,8 @@
     "params": {
       "min_confidence": 0.65,
       "combo_size": 4,
-      "dixon_coles_home_adv": 0.204,
-      "dixon_coles_rho": -0.05
+      "dixon_coles_home_adv": 0.207,
+      "dixon_coles_rho": -0.055
     },
     "status": "ok"
   },
@@ -29,7 +29,7 @@
           "league_name": "La Liga",
           "kickoff": "2026-08-20T19:00:00Z",
           "xg": [
-            1.45,
+            1.46,
             0.94
           ],
           "best_pick": {
@@ -48,31 +48,31 @@
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7497,
+              "probability": 0.7493,
               "fair_odds": 1.33
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.6961,
-              "fair_odds": 1.44
+              "probability": 0.6986,
+              "fair_odds": 1.43
             },
             {
               "market": "-2.5",
               "selection": "Moins de 3 buts",
-              "probability": 0.5718,
-              "fair_odds": 1.75
+              "probability": 0.5695,
+              "fair_odds": 1.76
             },
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.5272,
-              "fair_odds": 1.9
+              "probability": 0.5246,
+              "fair_odds": 1.91
             },
             {
               "market": "1",
               "selection": "Victoire Vallecano",
-              "probability": 0.508,
+              "probability": 0.5076,
               "fair_odds": 1.97
             }
           ]
