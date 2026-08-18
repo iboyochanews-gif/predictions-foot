@@ -1,17 +1,17 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T18:41:47Z",
-    "next_update_at": "2026-08-18T00:40:51Z",
+    "generated_at": "2026-08-18T01:17:53Z",
+    "next_update_at": "2026-08-18T07:16:59Z",
     "training": {
-      "n_matches": 3525,
-      "date_range": "2024-08-15 → 2026-08-10",
-      "n_teams": 152
+      "n_matches": 3509,
+      "date_range": "2024-08-15 → 2026-08-17",
+      "n_teams": 112
     },
     "model": "Dixon-Coles + Elo + Forme récente (ensemble pondéré)",
     "params": {
       "min_confidence": 0.65,
       "combo_size": 4,
-      "dixon_coles_home_adv": 0.204,
+      "dixon_coles_home_adv": 0.23,
       "dixon_coles_rho": -0.05
     },
     "status": "ok"
@@ -29,51 +29,51 @@
           "league_name": "La Liga",
           "kickoff": "2026-08-20T19:00:00Z",
           "xg": [
-            1.45,
-            0.94
+            1.39,
+            1.09
           ],
           "best_pick": {
-            "market": "1X",
-            "selection": "Vallecano ou nul",
-            "probability": 0.7583,
-            "fair_odds": 1.32
+            "market": "12",
+            "selection": "Pas de nul",
+            "probability": 0.737,
+            "fair_odds": 1.36
           },
           "top_markets": [
             {
-              "market": "1X",
-              "selection": "Vallecano ou nul",
-              "probability": 0.7583,
-              "fair_odds": 1.32
-            },
-            {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7497,
-              "fair_odds": 1.33
+              "probability": 0.737,
+              "fair_odds": 1.36
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.6961,
-              "fair_odds": 1.44
+              "probability": 0.7147,
+              "fair_odds": 1.4
+            },
+            {
+              "market": "1X",
+              "selection": "Vallecano ou nul",
+              "probability": 0.7126,
+              "fair_odds": 1.4
+            },
+            {
+              "market": "X2",
+              "selection": "Alaves ou nul",
+              "probability": 0.5504,
+              "fair_odds": 1.82
             },
             {
               "market": "-2.5",
               "selection": "Moins de 3 buts",
-              "probability": 0.5718,
-              "fair_odds": 1.75
+              "probability": 0.5492,
+              "fair_odds": 1.82
             },
             {
-              "market": "BTTS Non",
-              "selection": "Au moins un clean sheet",
-              "probability": 0.5272,
-              "fair_odds": 1.9
-            },
-            {
-              "market": "1",
-              "selection": "Victoire Vallecano",
-              "probability": 0.508,
-              "fair_odds": 1.97
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.5045,
+              "fair_odds": 1.98
             }
           ]
         }
@@ -81,6 +81,127 @@
       "combo": {
         "available": false,
         "reason": "Pas assez de sélections au-dessus de 65% de confiance (1 disponibles, 4 requises)."
+      }
+    },
+    {
+      "date": "2026-08-21",
+      "is_today": false,
+      "fixtures_count": 2,
+      "fixtures": [
+        {
+          "home": "Betis",
+          "away": "Sociedad",
+          "league": "SP1",
+          "league_name": "La Liga",
+          "kickoff": "2026-08-21T19:00:00Z",
+          "xg": [
+            2.2,
+            1.36
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.8745,
+            "fair_odds": 1.14
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.8745,
+              "fair_odds": 1.14
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7958,
+              "fair_odds": 1.26
+            },
+            {
+              "market": "1X",
+              "selection": "Betis ou nul",
+              "probability": 0.7673,
+              "fair_odds": 1.3
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.69,
+              "fair_odds": 1.45
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.6656,
+              "fair_odds": 1.5
+            },
+            {
+              "market": "1",
+              "selection": "Victoire Betis",
+              "probability": 0.5631,
+              "fair_odds": 1.78
+            }
+          ]
+        },
+        {
+          "home": "Marseille",
+          "away": "Strasbourg",
+          "league": "F1",
+          "league_name": "Ligue 1",
+          "kickoff": "2026-08-21T18:45:00Z",
+          "xg": [
+            2.0,
+            1.6
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.8787,
+            "fair_odds": 1.14
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.8787,
+              "fair_odds": 1.14
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7594,
+              "fair_odds": 1.32
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.6974,
+              "fair_odds": 1.43
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.6945,
+              "fair_odds": 1.44
+            },
+            {
+              "market": "1X",
+              "selection": "Marseille ou nul",
+              "probability": 0.6922,
+              "fair_odds": 1.44
+            },
+            {
+              "market": "X2",
+              "selection": "Strasbourg ou nul",
+              "probability": 0.5484,
+              "fair_odds": 1.82
+            }
+          ]
+        }
+      ],
+      "combo": {
+        "available": false,
+        "reason": "Pas assez de sélections au-dessus de 65% de confiance (2 disponibles, 4 requises)."
       }
     }
   ]
