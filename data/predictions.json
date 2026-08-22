@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T18:38:28Z",
-    "next_update_at": "2026-08-22T00:37:30Z",
+    "generated_at": "2026-08-22T01:18:21Z",
+    "next_update_at": "2026-08-22T07:17:18Z",
     "training": {
       "n_matches": 3511,
       "date_range": "2024-08-15 → 2026-08-20",
@@ -18,129 +18,8 @@
   },
   "days": [
     {
-      "date": "2026-08-21",
-      "is_today": true,
-      "fixtures_count": 2,
-      "fixtures": [
-        {
-          "home": "Betis",
-          "away": "Sociedad",
-          "league": "SP1",
-          "league_name": "La Liga",
-          "kickoff": "2026-08-21T19:00:00Z",
-          "xg": [
-            2.2,
-            1.37
-          ],
-          "best_pick": {
-            "market": "+1.5",
-            "selection": "2 buts ou plus",
-            "probability": 0.8757,
-            "fair_odds": 1.14
-          },
-          "top_markets": [
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.8757,
-              "fair_odds": 1.14
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7953,
-              "fair_odds": 1.26
-            },
-            {
-              "market": "1X",
-              "selection": "Betis ou nul",
-              "probability": 0.7661,
-              "fair_odds": 1.31
-            },
-            {
-              "market": "+2.5",
-              "selection": "3 buts ou plus",
-              "probability": 0.6917,
-              "fair_odds": 1.45
-            },
-            {
-              "market": "BTTS Oui",
-              "selection": "Les deux marquent",
-              "probability": 0.6681,
-              "fair_odds": 1.5
-            },
-            {
-              "market": "1",
-              "selection": "Victoire Betis",
-              "probability": 0.5614,
-              "fair_odds": 1.78
-            }
-          ]
-        },
-        {
-          "home": "Marseille",
-          "away": "Strasbourg",
-          "league": "F1",
-          "league_name": "Ligue 1",
-          "kickoff": "2026-08-21T18:45:00Z",
-          "xg": [
-            1.99,
-            1.61
-          ],
-          "best_pick": {
-            "market": "+1.5",
-            "selection": "2 buts ou plus",
-            "probability": 0.8788,
-            "fair_odds": 1.14
-          },
-          "top_markets": [
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.8788,
-              "fair_odds": 1.14
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7587,
-              "fair_odds": 1.32
-            },
-            {
-              "market": "+2.5",
-              "selection": "3 buts ou plus",
-              "probability": 0.697,
-              "fair_odds": 1.43
-            },
-            {
-              "market": "BTTS Oui",
-              "selection": "Les deux marquent",
-              "probability": 0.6952,
-              "fair_odds": 1.44
-            },
-            {
-              "market": "1X",
-              "selection": "Marseille ou nul",
-              "probability": 0.6899,
-              "fair_odds": 1.45
-            },
-            {
-              "market": "X2",
-              "selection": "Strasbourg ou nul",
-              "probability": 0.5514,
-              "fair_odds": 1.81
-            }
-          ]
-        }
-      ],
-      "combo": {
-        "available": false,
-        "reason": "Pas assez de sélections au-dessus de 65% de confiance (2 disponibles, 4 requises)."
-      }
-    },
-    {
       "date": "2026-08-22",
-      "is_today": false,
+      "is_today": true,
       "fixtures_count": 14,
       "fixtures": [
         {
@@ -1881,6 +1760,72 @@
             "xg": "1.36 – 1.01"
           }
         ]
+      }
+    },
+    {
+      "date": "2026-08-25",
+      "is_today": false,
+      "fixtures_count": 1,
+      "fixtures": [
+        {
+          "home": "Valencia",
+          "away": "Betis",
+          "league": "SP1",
+          "league_name": "La Liga",
+          "kickoff": "2026-08-25T19:00:00Z",
+          "xg": [
+            1.44,
+            1.39
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.7791,
+            "fair_odds": 1.28
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.7791,
+              "fair_odds": 1.28
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7291,
+              "fair_odds": 1.37
+            },
+            {
+              "market": "1X",
+              "selection": "Valencia ou nul",
+              "probability": 0.656,
+              "fair_odds": 1.52
+            },
+            {
+              "market": "X2",
+              "selection": "Betis ou nul",
+              "probability": 0.6149,
+              "fair_odds": 1.63
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.578,
+              "fair_odds": 1.73
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.5361,
+              "fair_odds": 1.87
+            }
+          ]
+        }
+      ],
+      "combo": {
+        "available": false,
+        "reason": "Pas assez de sélections au-dessus de 65% de confiance (1 disponibles, 4 requises)."
       }
     }
   ]
