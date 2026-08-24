@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T12:53:16Z",
-    "next_update_at": "2026-08-24T18:52:20Z",
+    "generated_at": "2026-08-24T18:42:05Z",
+    "next_update_at": "2026-08-25T00:41:05Z",
     "training": {
       "n_matches": 3511,
       "date_range": "2024-08-15 → 2026-08-20",
@@ -20,7 +20,7 @@
     {
       "date": "2026-08-24",
       "is_today": true,
-      "fixtures_count": 4,
+      "fixtures_count": 2,
       "fixtures": [
         {
           "home": "Fulham",
@@ -74,116 +74,6 @@
               "selection": "Les deux marquent",
               "probability": 0.5013,
               "fair_odds": 1.99
-            }
-          ]
-        },
-        {
-          "home": "Osasuna",
-          "away": "Levante",
-          "league": "SP1",
-          "league_name": "La Liga",
-          "kickoff": "2026-08-24T17:30:00Z",
-          "xg": [
-            1.6,
-            1.12
-          ],
-          "best_pick": {
-            "market": "+1.5",
-            "selection": "2 buts ou plus",
-            "probability": 0.7615,
-            "fair_odds": 1.31
-          },
-          "top_markets": [
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.7615,
-              "fair_odds": 1.31
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.734,
-              "fair_odds": 1.36
-            },
-            {
-              "market": "1X",
-              "selection": "Osasuna ou nul",
-              "probability": 0.714,
-              "fair_odds": 1.4
-            },
-            {
-              "market": "X2",
-              "selection": "Levante ou nul",
-              "probability": 0.552,
-              "fair_odds": 1.81
-            },
-            {
-              "market": "BTTS Oui",
-              "selection": "Les deux marquent",
-              "probability": 0.5446,
-              "fair_odds": 1.84
-            },
-            {
-              "market": "+2.5",
-              "selection": "3 buts ou plus",
-              "probability": 0.5117,
-              "fair_odds": 1.95
-            }
-          ]
-        },
-        {
-          "home": "Bologna",
-          "away": "Lazio",
-          "league": "I1",
-          "league_name": "Serie A",
-          "kickoff": "2026-08-24T16:30:00Z",
-          "xg": [
-            1.36,
-            1.01
-          ],
-          "best_pick": {
-            "market": "12",
-            "selection": "Pas de nul",
-            "probability": 0.7209,
-            "fair_odds": 1.39
-          },
-          "top_markets": [
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7209,
-              "fair_odds": 1.39
-            },
-            {
-              "market": "1X",
-              "selection": "Bologna ou nul",
-              "probability": 0.7182,
-              "fair_odds": 1.39
-            },
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.6928,
-              "fair_odds": 1.44
-            },
-            {
-              "market": "-2.5",
-              "selection": "Moins de 3 buts",
-              "probability": 0.5764,
-              "fair_odds": 1.74
-            },
-            {
-              "market": "X2",
-              "selection": "Lazio ou nul",
-              "probability": 0.5608,
-              "fair_odds": 1.78
-            },
-            {
-              "market": "BTTS Non",
-              "selection": "Au moins un clean sheet",
-              "probability": 0.5194,
-              "fair_odds": 1.93
             }
           ]
         },
@@ -244,47 +134,8 @@
         }
       ],
       "combo": {
-        "available": true,
-        "joint_probability": 0.3327,
-        "fair_combined_odds": 2.99,
-        "picks": [
-          {
-            "match": "Roma vs Fiorentina",
-            "league_name": "Serie A",
-            "market": "1X",
-            "selection": "Roma ou nul",
-            "probability": 0.8378,
-            "fair_odds": 1.19,
-            "xg": "1.84 – 0.73"
-          },
-          {
-            "match": "Osasuna vs Levante",
-            "league_name": "La Liga",
-            "market": "+1.5",
-            "selection": "2 buts ou plus",
-            "probability": 0.7615,
-            "fair_odds": 1.31,
-            "xg": "1.60 – 1.12"
-          },
-          {
-            "match": "Fulham vs Chelsea",
-            "league_name": "Premier League",
-            "market": "12",
-            "selection": "Pas de nul",
-            "probability": 0.7234,
-            "fair_odds": 1.38,
-            "xg": "1.36 – 1.10"
-          },
-          {
-            "match": "Bologna vs Lazio",
-            "league_name": "Serie A",
-            "market": "12",
-            "selection": "Pas de nul",
-            "probability": 0.7209,
-            "fair_odds": 1.39,
-            "xg": "1.36 – 1.01"
-          }
-        ]
+        "available": false,
+        "reason": "Pas assez de sélections au-dessus de 65% de confiance (2 disponibles, 4 requises)."
       }
     },
     {
