@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-27T08:04:50Z",
-    "next_update_at": "2026-08-27T14:03:47Z",
+    "generated_at": "2026-08-27T21:56:01Z",
+    "next_update_at": "2026-08-28T03:55:05Z",
     "training": {
       "n_matches": 3549,
       "date_range": "2024-08-15 → 2026-08-24",
@@ -17,127 +17,6 @@
     "status": "ok"
   },
   "days": [
-    {
-      "date": "2026-08-27",
-      "is_today": true,
-      "fixtures_count": 2,
-      "fixtures": [
-        {
-          "home": "Celta",
-          "away": "Osasuna",
-          "league": "SP1",
-          "league_name": "La Liga",
-          "kickoff": "2026-08-27T18:30:00Z",
-          "xg": [
-            1.46,
-            0.85
-          ],
-          "best_pick": {
-            "market": "1X",
-            "selection": "Celta ou nul",
-            "probability": 0.7723,
-            "fair_odds": 1.29
-          },
-          "top_markets": [
-            {
-              "market": "1X",
-              "selection": "Celta ou nul",
-              "probability": 0.7723,
-              "fair_odds": 1.29
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7478,
-              "fair_odds": 1.34
-            },
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.6759,
-              "fair_odds": 1.48
-            },
-            {
-              "market": "-2.5",
-              "selection": "Moins de 3 buts",
-              "probability": 0.5947,
-              "fair_odds": 1.68
-            },
-            {
-              "market": "BTTS Non",
-              "selection": "Au moins un clean sheet",
-              "probability": 0.5558,
-              "fair_odds": 1.8
-            },
-            {
-              "market": "1",
-              "selection": "Victoire Celta",
-              "probability": 0.5201,
-              "fair_odds": 1.92
-            }
-          ]
-        },
-        {
-          "home": "Barcelona",
-          "away": "Ath Bilbao",
-          "league": "SP1",
-          "league_name": "La Liga",
-          "kickoff": "2026-08-27T19:00:00Z",
-          "xg": [
-            3.45,
-            0.69
-          ],
-          "best_pick": {
-            "market": "1X",
-            "selection": "Barcelona ou nul",
-            "probability": 0.9262,
-            "fair_odds": 1.08
-          },
-          "top_markets": [
-            {
-              "market": "1X",
-              "selection": "Barcelona ou nul",
-              "probability": 0.9262,
-              "fair_odds": 1.08
-            },
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.9192,
-              "fair_odds": 1.09
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.8905,
-              "fair_odds": 1.12
-            },
-            {
-              "market": "1",
-              "selection": "Victoire Barcelona",
-              "probability": 0.8167,
-              "fair_odds": 1.22
-            },
-            {
-              "market": "+2.5",
-              "selection": "3 buts ou plus",
-              "probability": 0.7798,
-              "fair_odds": 1.28
-            },
-            {
-              "market": "BTTS Non",
-              "selection": "Au moins un clean sheet",
-              "probability": 0.5159,
-              "fair_odds": 1.94
-            }
-          ]
-        }
-      ],
-      "combo": {
-        "available": false,
-        "reason": "Pas assez de sélections au-dessus de 65% de confiance (2 disponibles, 4 requises)."
-      }
-    },
     {
       "date": "2026-08-28",
       "is_today": false,
