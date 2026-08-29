@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-28T21:48:20Z",
-    "next_update_at": "2026-08-29T03:47:23Z",
+    "generated_at": "2026-08-29T06:06:20Z",
+    "next_update_at": "2026-08-29T12:05:17Z",
     "training": {
       "n_matches": 3553,
       "date_range": "2024-08-15 → 2026-08-27",
@@ -19,7 +19,7 @@
   "days": [
     {
       "date": "2026-08-29",
-      "is_today": false,
+      "is_today": true,
       "fixtures_count": 18,
       "fixtures": [
         {
