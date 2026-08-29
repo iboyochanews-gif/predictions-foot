@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-29T06:06:20Z",
-    "next_update_at": "2026-08-29T12:05:17Z",
+    "generated_at": "2026-08-29T16:22:10Z",
+    "next_update_at": "2026-08-29T22:21:12Z",
     "training": {
       "n_matches": 3553,
       "date_range": "2024-08-15 → 2026-08-27",
@@ -20,118 +20,8 @@
     {
       "date": "2026-08-29",
       "is_today": true,
-      "fixtures_count": 18,
+      "fixtures_count": 12,
       "fixtures": [
-        {
-          "home": "Liverpool",
-          "away": "Nott'm Forest",
-          "league": "E0",
-          "league_name": "Premier League",
-          "kickoff": "2026-08-29T11:30:00Z",
-          "xg": [
-            1.69,
-            1.27
-          ],
-          "best_pick": {
-            "market": "+1.5",
-            "selection": "2 buts ou plus",
-            "probability": 0.7991,
-            "fair_odds": 1.25
-          },
-          "top_markets": [
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.7991,
-              "fair_odds": 1.25
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.764,
-              "fair_odds": 1.31
-            },
-            {
-              "market": "1X",
-              "selection": "Liverpool ou nul",
-              "probability": 0.7182,
-              "fair_odds": 1.39
-            },
-            {
-              "market": "BTTS Oui",
-              "selection": "Les deux marquent",
-              "probability": 0.591,
-              "fair_odds": 1.69
-            },
-            {
-              "market": "+2.5",
-              "selection": "3 buts ou plus",
-              "probability": 0.5677,
-              "fair_odds": 1.76
-            },
-            {
-              "market": "X2",
-              "selection": "Nott'm Forest ou nul",
-              "probability": 0.5178,
-              "fair_odds": 1.93
-            }
-          ]
-        },
-        {
-          "home": "Bournemouth",
-          "away": "Everton",
-          "league": "E0",
-          "league_name": "Premier League",
-          "kickoff": "2026-08-29T14:00:00Z",
-          "xg": [
-            1.62,
-            1.05
-          ],
-          "best_pick": {
-            "market": "12",
-            "selection": "Pas de nul",
-            "probability": 0.7599,
-            "fair_odds": 1.32
-          },
-          "top_markets": [
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7599,
-              "fair_odds": 1.32
-            },
-            {
-              "market": "1X",
-              "selection": "Bournemouth ou nul",
-              "probability": 0.7534,
-              "fair_odds": 1.33
-            },
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.7503,
-              "fair_odds": 1.33
-            },
-            {
-              "market": "BTTS Oui",
-              "selection": "Les deux marquent",
-              "probability": 0.5252,
-              "fair_odds": 1.9
-            },
-            {
-              "market": "1",
-              "selection": "Victoire Bournemouth",
-              "probability": 0.5133,
-              "fair_odds": 1.95
-            },
-            {
-              "market": "-2.5",
-              "selection": "Moins de 3 buts",
-              "probability": 0.5013,
-              "fair_odds": 1.99
-            }
-          ]
-        },
         {
           "home": "Tottenham",
           "away": "Newcastle",
@@ -184,61 +74,6 @@
               "selection": "3 buts ou plus",
               "probability": 0.5562,
               "fair_odds": 1.8
-            }
-          ]
-        },
-        {
-          "home": "Levante",
-          "away": "Betis",
-          "league": "SP1",
-          "league_name": "La Liga",
-          "kickoff": "2026-08-29T15:00:00Z",
-          "xg": [
-            1.03,
-            1.47
-          ],
-          "best_pick": {
-            "market": "12",
-            "selection": "Pas de nul",
-            "probability": 0.7279,
-            "fair_odds": 1.37
-          },
-          "top_markets": [
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7279,
-              "fair_odds": 1.37
-            },
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.7169,
-              "fair_odds": 1.39
-            },
-            {
-              "market": "X2",
-              "selection": "Betis ou nul",
-              "probability": 0.7089,
-              "fair_odds": 1.41
-            },
-            {
-              "market": "1X",
-              "selection": "Levante ou nul",
-              "probability": 0.5632,
-              "fair_odds": 1.78
-            },
-            {
-              "market": "-2.5",
-              "selection": "Moins de 3 buts",
-              "probability": 0.5447,
-              "fair_odds": 1.84
-            },
-            {
-              "market": "BTTS Non",
-              "selection": "Au moins un clean sheet",
-              "probability": 0.5006,
-              "fair_odds": 2.0
             }
           ]
         },
@@ -573,171 +408,6 @@
           ]
         },
         {
-          "home": "RB Leipzig",
-          "away": "M'gladbach",
-          "league": "D1",
-          "league_name": "Bundesliga",
-          "kickoff": "2026-08-29T13:30:00Z",
-          "xg": [
-            1.89,
-            1.11
-          ],
-          "best_pick": {
-            "market": "+1.5",
-            "selection": "2 buts ou plus",
-            "probability": 0.8044,
-            "fair_odds": 1.24
-          },
-          "top_markets": [
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.8044,
-              "fair_odds": 1.24
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7871,
-              "fair_odds": 1.27
-            },
-            {
-              "market": "1X",
-              "selection": "RB Leipzig ou nul",
-              "probability": 0.7673,
-              "fair_odds": 1.3
-            },
-            {
-              "market": "+2.5",
-              "selection": "3 buts ou plus",
-              "probability": 0.5759,
-              "fair_odds": 1.74
-            },
-            {
-              "market": "BTTS Oui",
-              "selection": "Les deux marquent",
-              "probability": 0.5722,
-              "fair_odds": 1.75
-            },
-            {
-              "market": "1",
-              "selection": "Victoire RB Leipzig",
-              "probability": 0.5544,
-              "fair_odds": 1.8
-            }
-          ]
-        },
-        {
-          "home": "Union Berlin",
-          "away": "Ein Frankfurt",
-          "league": "D1",
-          "league_name": "Bundesliga",
-          "kickoff": "2026-08-29T13:30:00Z",
-          "xg": [
-            1.63,
-            1.6
-          ],
-          "best_pick": {
-            "market": "+1.5",
-            "selection": "2 buts ou plus",
-            "probability": 0.8362,
-            "fair_odds": 1.2
-          },
-          "top_markets": [
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.8362,
-              "fair_odds": 1.2
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7458,
-              "fair_odds": 1.34
-            },
-            {
-              "market": "1X",
-              "selection": "Union Berlin ou nul",
-              "probability": 0.6522,
-              "fair_odds": 1.53
-            },
-            {
-              "market": "BTTS Oui",
-              "selection": "Les deux marquent",
-              "probability": 0.6452,
-              "fair_odds": 1.55
-            },
-            {
-              "market": "+2.5",
-              "selection": "3 buts ou plus",
-              "probability": 0.6255,
-              "fair_odds": 1.6
-            },
-            {
-              "market": "X2",
-              "selection": "Ein Frankfurt ou nul",
-              "probability": 0.6019,
-              "fair_odds": 1.66
-            }
-          ]
-        },
-        {
-          "home": "FC Koln",
-          "away": "Hoffenheim",
-          "league": "D1",
-          "league_name": "Bundesliga",
-          "kickoff": "2026-08-29T13:30:00Z",
-          "xg": [
-            1.67,
-            1.96
-          ],
-          "best_pick": {
-            "market": "+1.5",
-            "selection": "2 buts ou plus",
-            "probability": 0.8807,
-            "fair_odds": 1.14
-          },
-          "top_markets": [
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.8807,
-              "fair_odds": 1.14
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7549,
-              "fair_odds": 1.32
-            },
-            {
-              "market": "+2.5",
-              "selection": "3 buts ou plus",
-              "probability": 0.7026,
-              "fair_odds": 1.42
-            },
-            {
-              "market": "BTTS Oui",
-              "selection": "Les deux marquent",
-              "probability": 0.7009,
-              "fair_odds": 1.43
-            },
-            {
-              "market": "X2",
-              "selection": "Hoffenheim ou nul",
-              "probability": 0.672,
-              "fair_odds": 1.49
-            },
-            {
-              "market": "1X",
-              "selection": "FC Koln ou nul",
-              "probability": 0.573,
-              "fair_odds": 1.75
-            }
-          ]
-        },
-        {
           "home": "Dortmund",
           "away": "Hamburg",
           "league": "D1",
@@ -1015,8 +685,8 @@
       ],
       "combo": {
         "available": true,
-        "joint_probability": 0.7303,
-        "fair_combined_odds": 1.38,
+        "joint_probability": 0.7107,
+        "fair_combined_odds": 1.41,
         "picks": [
           {
             "match": "Lorient vs Troyes",
@@ -1037,15 +707,6 @@
             "xg": "0.85 – 0.06"
           },
           {
-            "match": "FC Koln vs Hoffenheim",
-            "league_name": "Bundesliga",
-            "market": "+1.5",
-            "selection": "2 buts ou plus",
-            "probability": 0.8807,
-            "fair_odds": 1.14,
-            "xg": "1.67 – 1.96"
-          },
-          {
             "match": "Dortmund vs Hamburg",
             "league_name": "Bundesliga",
             "market": "1X",
@@ -1053,6 +714,15 @@
             "probability": 0.8591,
             "fair_odds": 1.16,
             "xg": "2.26 – 0.76"
+          },
+          {
+            "match": "Juventus vs Parma",
+            "league_name": "Serie A",
+            "market": "1X",
+            "selection": "Juventus ou nul",
+            "probability": 0.8572,
+            "fair_odds": 1.17,
+            "xg": "1.58 – 0.49"
           }
         ]
       }
