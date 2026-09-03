@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T10:50:55Z",
-    "next_update_at": "2026-09-03T16:50:01Z",
+    "generated_at": "2026-09-03T15:58:47Z",
+    "next_update_at": "2026-09-03T21:57:49Z",
     "training": {
       "n_matches": 3601,
       "date_range": "2024-08-15 → 2026-08-31",
@@ -11,8 +11,8 @@
     "params": {
       "min_confidence": 0.65,
       "combo_size": 4,
-      "dixon_coles_home_adv": 0.218,
-      "dixon_coles_rho": -0.026
+      "dixon_coles_home_adv": 0.22,
+      "dixon_coles_rho": -0.022
     },
     "status": "ok"
   },
@@ -30,49 +30,49 @@
           "kickoff": "2026-09-03T19:00:00Z",
           "xg": [
             1.68,
-            1.32
+            1.33
           ],
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.8041,
+            "probability": 0.8047,
             "fair_odds": 1.24
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.8041,
+              "probability": 0.8047,
               "fair_odds": 1.24
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7437,
+              "probability": 0.7443,
               "fair_odds": 1.34
             },
             {
               "market": "1X",
               "selection": "Sociedad ou nul",
-              "probability": 0.6954,
+              "probability": 0.6953,
               "fair_odds": 1.44
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.5998,
+              "probability": 0.6005,
               "fair_odds": 1.67
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.5774,
+              "probability": 0.5789,
               "fair_odds": 1.73
             },
             {
               "market": "X2",
               "selection": "Celta ou nul",
-              "probability": 0.5609,
+              "probability": 0.5604,
               "fair_odds": 1.78
             }
           ]
@@ -84,33 +84,33 @@
           "league_name": "Ligue 1",
           "kickoff": "2026-09-03T18:45:00Z",
           "xg": [
-            0.95,
+            0.96,
             1.37
           ],
           "best_pick": {
             "market": "12",
             "selection": "Pas de nul",
-            "probability": 0.723,
+            "probability": 0.7234,
             "fair_odds": 1.38
           },
           "top_markets": [
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.723,
+              "probability": 0.7234,
               "fair_odds": 1.38
             },
             {
               "market": "X2",
               "selection": "Lille ou nul",
-              "probability": 0.7028,
-              "fair_odds": 1.42
+              "probability": 0.7017,
+              "fair_odds": 1.43
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.678,
-              "fair_odds": 1.47
+              "probability": 0.6776,
+              "fair_odds": 1.48
             },
             {
               "market": "-2.5",
@@ -121,13 +121,13 @@
             {
               "market": "1X",
               "selection": "Toulouse ou nul",
-              "probability": 0.5741,
+              "probability": 0.575,
               "fair_odds": 1.74
             },
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.5384,
+              "probability": 0.5383,
               "fair_odds": 1.86
             }
           ]
@@ -150,51 +150,51 @@
           "league_name": "Premier League",
           "kickoff": "2026-09-04T19:00:00Z",
           "xg": [
-            2.1,
-            2.94
+            2.07,
+            2.99
           ],
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.9615,
+            "probability": 0.9622,
             "fair_odds": 1.04
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.9615,
+              "probability": 0.9622,
               "fair_odds": 1.04
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.8776,
+              "probability": 0.8797,
               "fair_odds": 1.14
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.8313,
+              "probability": 0.8303,
               "fair_odds": 1.2
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.8242,
+              "probability": 0.8259,
               "fair_odds": 1.21
             },
             {
               "market": "X2",
               "selection": "Liverpool ou nul",
-              "probability": 0.7236,
-              "fair_odds": 1.38
+              "probability": 0.7302,
+              "fair_odds": 1.37
             },
             {
               "market": "2",
               "selection": "Victoire Liverpool",
-              "probability": 0.5478,
-              "fair_odds": 1.83
+              "probability": 0.5562,
+              "fair_odds": 1.8
             }
           ]
         },
@@ -206,49 +206,49 @@
           "kickoff": "2026-09-04T18:45:00Z",
           "xg": [
             0.69,
-            1.64
+            1.65
           ],
           "best_pick": {
             "market": "X2",
             "selection": "Como ou nul",
-            "probability": 0.8036,
+            "probability": 0.804,
             "fair_odds": 1.24
           },
           "top_markets": [
             {
               "market": "X2",
               "selection": "Como ou nul",
-              "probability": 0.8036,
+              "probability": 0.804,
               "fair_odds": 1.24
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7615,
+              "probability": 0.7625,
               "fair_odds": 1.31
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.6786,
+              "probability": 0.6795,
               "fair_odds": 1.47
             },
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.5964,
+              "probability": 0.5966,
               "fair_odds": 1.68
             },
             {
               "market": "-2.5",
               "selection": "Moins de 3 buts",
-              "probability": 0.5884,
+              "probability": 0.5869,
               "fair_odds": 1.7
             },
             {
               "market": "2",
               "selection": "Victoire Como",
-              "probability": 0.5651,
+              "probability": 0.5665,
               "fair_odds": 1.77
             }
           ]
@@ -260,51 +260,51 @@
           "league_name": "Bundesliga",
           "kickoff": "2026-09-04T18:30:00Z",
           "xg": [
-            2.88,
-            1.36
+            2.89,
+            1.35
           ],
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.9253,
+            "probability": 0.9254,
             "fair_odds": 1.08
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.9253,
+              "probability": 0.9254,
               "fair_odds": 1.08
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.8429,
+              "probability": 0.8435,
               "fair_odds": 1.19
             },
             {
               "market": "1X",
               "selection": "Stuttgart ou nul",
-              "probability": 0.821,
+              "probability": 0.8217,
               "fair_odds": 1.22
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.7935,
+              "probability": 0.7941,
               "fair_odds": 1.26
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.7017,
+              "probability": 0.7011,
               "fair_odds": 1.43
             },
             {
               "market": "1",
               "selection": "Victoire Stuttgart",
-              "probability": 0.6639,
-              "fair_odds": 1.51
+              "probability": 0.6652,
+              "fair_odds": 1.5
             }
           ]
         },
@@ -315,50 +315,50 @@
           "league_name": "Ligue 1",
           "kickoff": "2026-09-04T17:00:00Z",
           "xg": [
-            2.1,
+            2.11,
             0.98
           ],
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.8155,
-            "fair_odds": 1.23
+            "probability": 0.8164,
+            "fair_odds": 1.22
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.8155,
-              "fair_odds": 1.23
+              "probability": 0.8164,
+              "fair_odds": 1.22
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.8077,
+              "probability": 0.8084,
               "fair_odds": 1.24
             },
             {
               "market": "1X",
               "selection": "Lyon ou nul",
-              "probability": 0.8018,
+              "probability": 0.8017,
               "fair_odds": 1.25
             },
             {
               "market": "1",
               "selection": "Victoire Lyon",
-              "probability": 0.6095,
+              "probability": 0.6101,
               "fair_odds": 1.64
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.5953,
-              "fair_odds": 1.68
+              "probability": 0.5972,
+              "fair_odds": 1.67
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.5515,
+              "probability": 0.5525,
               "fair_odds": 1.81
             }
           ]
@@ -370,50 +370,50 @@
           "league_name": "Ligue 1",
           "kickoff": "2026-09-04T19:05:00Z",
           "xg": [
-            2.29,
+            2.3,
             1.18
           ],
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.8625,
+            "probability": 0.8629,
             "fair_odds": 1.16
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.8625,
+              "probability": 0.8629,
               "fair_odds": 1.16
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.813,
+              "probability": 0.8137,
               "fair_odds": 1.23
             },
             {
               "market": "1X",
               "selection": "Paris SG ou nul",
-              "probability": 0.7921,
+              "probability": 0.7925,
               "fair_odds": 1.26
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.6725,
-              "fair_odds": 1.49
+              "probability": 0.6736,
+              "fair_odds": 1.48
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.6235,
+              "probability": 0.6236,
               "fair_odds": 1.6
             },
             {
               "market": "1",
               "selection": "Victoire Paris SG",
-              "probability": 0.6052,
+              "probability": 0.6061,
               "fair_odds": 1.65
             }
           ]
@@ -421,44 +421,44 @@
       ],
       "combo": {
         "available": true,
-        "joint_probability": 0.6257,
-        "fair_combined_odds": 1.6,
+        "joint_probability": 0.6273,
+        "fair_combined_odds": 1.59,
         "picks": [
           {
             "match": "Ipswich vs Liverpool",
             "league_name": "Premier League",
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.9615,
+            "probability": 0.9622,
             "fair_odds": 1.04,
-            "xg": "2.10 – 2.94"
+            "xg": "2.07 – 2.99"
           },
           {
             "match": "Stuttgart vs FC Koln",
             "league_name": "Bundesliga",
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.9253,
+            "probability": 0.9254,
             "fair_odds": 1.08,
-            "xg": "2.88 – 1.36"
+            "xg": "2.89 – 1.35"
           },
           {
             "match": "Paris SG vs Monaco",
             "league_name": "Ligue 1",
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.8625,
+            "probability": 0.8629,
             "fair_odds": 1.16,
-            "xg": "2.29 – 1.18"
+            "xg": "2.30 – 1.18"
           },
           {
             "match": "Lyon vs Auxerre",
             "league_name": "Ligue 1",
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.8155,
-            "fair_odds": 1.23,
-            "xg": "2.10 – 0.98"
+            "probability": 0.8164,
+            "fair_odds": 1.22,
+            "xg": "2.11 – 0.98"
           }
         ]
       }
@@ -475,51 +475,51 @@
           "league_name": "Premier League",
           "kickoff": "2026-09-05T11:30:00Z",
           "xg": [
-            1.45,
+            1.46,
             1.32
           ],
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.7673,
+            "probability": 0.7694,
             "fair_odds": 1.3
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.7673,
+              "probability": 0.7694,
               "fair_odds": 1.3
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7338,
+              "probability": 0.7348,
               "fair_odds": 1.36
             },
             {
               "market": "1X",
               "selection": "Newcastle ou nul",
-              "probability": 0.6725,
+              "probability": 0.673,
               "fair_odds": 1.49
             },
             {
               "market": "X2",
               "selection": "Bournemouth ou nul",
-              "probability": 0.5937,
-              "fair_odds": 1.68
+              "probability": 0.5922,
+              "fair_odds": 1.69
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.5645,
-              "fair_odds": 1.77
+              "probability": 0.5667,
+              "fair_odds": 1.76
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.524,
-              "fair_odds": 1.91
+              "probability": 0.5275,
+              "fair_odds": 1.9
             }
           ]
         },
@@ -531,49 +531,49 @@
           "kickoff": "2026-09-05T14:00:00Z",
           "xg": [
             1.89,
-            0.79
+            0.8
           ],
           "best_pick": {
             "market": "1X",
             "selection": "Nott'm Forest ou nul",
-            "probability": 0.8119,
+            "probability": 0.8116,
             "fair_odds": 1.23
           },
           "top_markets": [
             {
               "market": "1X",
               "selection": "Nott'm Forest ou nul",
-              "probability": 0.8119,
+              "probability": 0.8116,
               "fair_odds": 1.23
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.793,
+              "probability": 0.7936,
               "fair_odds": 1.26
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.7509,
+              "probability": 0.7516,
               "fair_odds": 1.33
             },
             {
               "market": "1",
               "selection": "Victoire Nott'm Forest",
-              "probability": 0.6049,
+              "probability": 0.6052,
               "fair_odds": 1.65
             },
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.5326,
+              "probability": 0.5318,
               "fair_odds": 1.88
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.5023,
+              "probability": 0.5036,
               "fair_odds": 1.99
             }
           ]
@@ -586,50 +586,50 @@
           "kickoff": "2026-09-05T14:00:00Z",
           "xg": [
             2.94,
-            0.07
+            0.05
           ],
           "best_pick": {
-            "market": "1X",
-            "selection": "Man City ou nul",
-            "probability": 0.9379,
-            "fair_odds": 1.07
+            "market": "BTTS Non",
+            "selection": "Au moins un clean sheet",
+            "probability": 0.9496,
+            "fair_odds": 1.05
           },
           "top_markets": [
             {
-              "market": "1X",
-              "selection": "Man City ou nul",
-              "probability": 0.9379,
-              "fair_odds": 1.07
-            },
-            {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.9366,
+              "probability": 0.9496,
+              "fair_odds": 1.05
+            },
+            {
+              "market": "1X",
+              "selection": "Man City ou nul",
+              "probability": 0.9384,
               "fair_odds": 1.07
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.908,
+              "probability": 0.9091,
               "fair_odds": 1.1
             },
             {
               "market": "1",
               "selection": "Victoire Man City",
-              "probability": 0.8459,
+              "probability": 0.8475,
               "fair_odds": 1.18
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.8018,
+              "probability": 0.8002,
               "fair_odds": 1.25
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.5775,
-              "fair_odds": 1.73
+              "probability": 0.5752,
+              "fair_odds": 1.74
             }
           ]
         },
@@ -646,44 +646,44 @@
           "best_pick": {
             "market": "12",
             "selection": "Pas de nul",
-            "probability": 0.7452,
+            "probability": 0.7457,
             "fair_odds": 1.34
           },
           "top_markets": [
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7452,
+              "probability": 0.7457,
               "fair_odds": 1.34
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.7432,
-              "fair_odds": 1.35
+              "probability": 0.7441,
+              "fair_odds": 1.34
             },
             {
               "market": "1X",
               "selection": "Brighton ou nul",
-              "probability": 0.7312,
+              "probability": 0.7299,
               "fair_odds": 1.37
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.5243,
-              "fair_odds": 1.91
+              "probability": 0.5258,
+              "fair_odds": 1.9
             },
             {
               "market": "X2",
               "selection": "Leeds ou nul",
-              "probability": 0.5236,
+              "probability": 0.5244,
               "fair_odds": 1.91
             },
             {
               "market": "-2.5",
               "selection": "Moins de 3 buts",
-              "probability": 0.5086,
+              "probability": 0.5069,
               "fair_odds": 1.97
             }
           ]
@@ -695,51 +695,51 @@
           "league_name": "Premier League",
           "kickoff": "2026-09-05T14:00:00Z",
           "xg": [
-            1.52,
+            1.53,
             0.83
           ],
           "best_pick": {
             "market": "1X",
             "selection": "Brentford ou nul",
-            "probability": 0.7616,
+            "probability": 0.7626,
             "fair_odds": 1.31
           },
           "top_markets": [
             {
               "market": "1X",
               "selection": "Brentford ou nul",
-              "probability": 0.7616,
+              "probability": 0.7626,
               "fair_odds": 1.31
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7442,
+              "probability": 0.7456,
               "fair_odds": 1.34
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.6845,
+              "probability": 0.6868,
               "fair_odds": 1.46
             },
             {
               "market": "-2.5",
               "selection": "Moins de 3 buts",
-              "probability": 0.5817,
-              "fair_odds": 1.72
+              "probability": 0.5786,
+              "fair_odds": 1.73
             },
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.5552,
+              "probability": 0.5544,
               "fair_odds": 1.8
             },
             {
               "market": "1",
               "selection": "Victoire Brentford",
-              "probability": 0.5058,
-              "fair_odds": 1.98
+              "probability": 0.5082,
+              "fair_odds": 1.97
             }
           ]
         },
@@ -756,39 +756,39 @@
           "best_pick": {
             "market": "1X",
             "selection": "Fulham ou nul",
-            "probability": 0.7532,
+            "probability": 0.7529,
             "fair_odds": 1.33
           },
           "top_markets": [
             {
               "market": "1X",
               "selection": "Fulham ou nul",
-              "probability": 0.7532,
+              "probability": 0.7529,
               "fair_odds": 1.33
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7414,
+              "probability": 0.7418,
               "fair_odds": 1.35
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.6953,
+              "probability": 0.6942,
               "fair_odds": 1.44
             },
             {
               "market": "-2.5",
               "selection": "Moins de 3 buts",
-              "probability": 0.569,
-              "fair_odds": 1.76
+              "probability": 0.5698,
+              "fair_odds": 1.75
             },
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.53,
-              "fair_odds": 1.89
+              "probability": 0.531,
+              "fair_odds": 1.88
             },
             {
               "market": "X2",
@@ -805,50 +805,50 @@
           "league_name": "Serie A",
           "kickoff": "2026-09-05T13:00:00Z",
           "xg": [
-            1.57,
+            1.56,
             1.23
           ],
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.7706,
+            "probability": 0.7702,
             "fair_odds": 1.3
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.7706,
+              "probability": 0.7702,
               "fair_odds": 1.3
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7523,
+              "probability": 0.7525,
               "fair_odds": 1.33
             },
             {
               "market": "1X",
               "selection": "Fiorentina ou nul",
-              "probability": 0.7093,
+              "probability": 0.7074,
               "fair_odds": 1.41
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.562,
+              "probability": 0.5621,
               "fair_odds": 1.78
             },
             {
               "market": "X2",
               "selection": "Torino ou nul",
-              "probability": 0.5384,
-              "fair_odds": 1.86
+              "probability": 0.5401,
+              "fair_odds": 1.85
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.5287,
+              "probability": 0.5286,
               "fair_odds": 1.89
             }
           ]
@@ -860,51 +860,51 @@
           "league_name": "Serie A",
           "kickoff": "2026-09-05T16:00:00Z",
           "xg": [
-            1.91,
-            1.04
+            1.9,
+            1.05
           ],
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.7962,
+            "probability": 0.7952,
             "fair_odds": 1.26
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.7962,
+              "probability": 0.7952,
               "fair_odds": 1.26
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.789,
+              "probability": 0.7887,
               "fair_odds": 1.27
             },
             {
               "market": "1X",
               "selection": "Inter ou nul",
-              "probability": 0.7819,
+              "probability": 0.78,
               "fair_odds": 1.28
             },
             {
               "market": "1",
               "selection": "Victoire Inter",
-              "probability": 0.5708,
-              "fair_odds": 1.75
+              "probability": 0.5687,
+              "fair_odds": 1.76
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.5658,
+              "probability": 0.5649,
               "fair_odds": 1.77
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.5535,
-              "fair_odds": 1.81
+              "probability": 0.5541,
+              "fair_odds": 1.8
             }
           ]
         },
@@ -916,49 +916,49 @@
           "kickoff": "2026-09-05T18:45:00Z",
           "xg": [
             1.69,
-            0.81
+            0.8
           ],
           "best_pick": {
             "market": "1X",
             "selection": "Roma ou nul",
-            "probability": 0.7999,
+            "probability": 0.8001,
             "fair_odds": 1.25
           },
           "top_markets": [
             {
               "market": "1X",
               "selection": "Roma ou nul",
-              "probability": 0.7999,
+              "probability": 0.8001,
               "fair_odds": 1.25
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7683,
+              "probability": 0.7691,
               "fair_odds": 1.3
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.714,
+              "probability": 0.7143,
               "fair_odds": 1.4
             },
             {
               "market": "1",
               "selection": "Victoire Roma",
-              "probability": 0.5682,
+              "probability": 0.5692,
               "fair_odds": 1.76
             },
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.5463,
+              "probability": 0.5467,
               "fair_odds": 1.83
             },
             {
               "market": "-2.5",
               "selection": "Moins de 3 buts",
-              "probability": 0.5457,
+              "probability": 0.545,
               "fair_odds": 1.83
             }
           ]
@@ -971,31 +971,31 @@
           "kickoff": "2026-09-05T13:30:00Z",
           "xg": [
             1.03,
-            1.98
+            1.97
           ],
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.8042,
+            "probability": 0.8039,
             "fair_odds": 1.24
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.8042,
+              "probability": 0.8039,
               "fair_odds": 1.24
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7726,
+              "probability": 0.7728,
               "fair_odds": 1.29
             },
             {
               "market": "X2",
               "selection": "RB Leipzig ou nul",
-              "probability": 0.7699,
+              "probability": 0.7692,
               "fair_odds": 1.3
             },
             {
@@ -1007,13 +1007,13 @@
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.5563,
+              "probability": 0.5565,
               "fair_odds": 1.8
             },
             {
               "market": "2",
               "selection": "Victoire RB Leipzig",
-              "probability": 0.5425,
+              "probability": 0.542,
               "fair_odds": 1.84
             }
           ]
@@ -1031,45 +1031,45 @@
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.8372,
+            "probability": 0.8375,
             "fair_odds": 1.19
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.8372,
+              "probability": 0.8375,
               "fair_odds": 1.19
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7634,
+              "probability": 0.7639,
               "fair_odds": 1.31
             },
             {
               "market": "X2",
               "selection": "Dortmund ou nul",
-              "probability": 0.7452,
+              "probability": 0.7451,
               "fair_odds": 1.34
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.6297,
+              "probability": 0.6306,
               "fair_odds": 1.59
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.6141,
+              "probability": 0.6145,
               "fair_odds": 1.63
             },
             {
               "market": "2",
               "selection": "Victoire Dortmund",
-              "probability": 0.5086,
-              "fair_odds": 1.97
+              "probability": 0.509,
+              "fair_odds": 1.96
             }
           ]
         },
@@ -1080,51 +1080,51 @@
           "league_name": "Bundesliga",
           "kickoff": "2026-09-05T13:30:00Z",
           "xg": [
-            2.46,
-            1.09
+            2.47,
+            1.1
           ],
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.8713,
-            "fair_odds": 1.15
+            "probability": 0.8736,
+            "fair_odds": 1.14
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.8713,
-              "fair_odds": 1.15
+              "probability": 0.8736,
+              "fair_odds": 1.14
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.8283,
+              "probability": 0.8292,
               "fair_odds": 1.21
             },
             {
               "market": "1X",
               "selection": "Leverkusen ou nul",
-              "probability": 0.8142,
+              "probability": 0.814,
               "fair_odds": 1.23
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.6882,
-              "fair_odds": 1.45
+              "probability": 0.6928,
+              "fair_odds": 1.44
             },
             {
               "market": "1",
               "selection": "Victoire Leverkusen",
-              "probability": 0.6425,
-              "fair_odds": 1.56
+              "probability": 0.6432,
+              "fair_odds": 1.55
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.6099,
-              "fair_odds": 1.64
+              "probability": 0.6134,
+              "fair_odds": 1.63
             }
           ]
         },
@@ -1136,50 +1136,50 @@
           "kickoff": "2026-09-05T13:30:00Z",
           "xg": [
             1.52,
-            2.73
+            2.75
           ],
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.9266,
+            "probability": 0.9275,
             "fair_odds": 1.08
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.9266,
+              "probability": 0.9275,
               "fair_odds": 1.08
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.7962,
-              "fair_odds": 1.26
+              "probability": 0.7986,
+              "fair_odds": 1.25
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7798,
+              "probability": 0.7805,
               "fair_odds": 1.28
             },
             {
               "market": "X2",
               "selection": "Elversberg ou nul",
-              "probability": 0.7365,
+              "probability": 0.737,
               "fair_odds": 1.36
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.7316,
-              "fair_odds": 1.37
+              "probability": 0.7329,
+              "fair_odds": 1.36
             },
             {
               "market": "2",
               "selection": "Victoire Elversberg",
-              "probability": 0.5163,
-              "fair_odds": 1.94
+              "probability": 0.5175,
+              "fair_odds": 1.93
             }
           ]
         },
@@ -1190,51 +1190,51 @@
           "league_name": "Bundesliga",
           "kickoff": "2026-09-05T13:30:00Z",
           "xg": [
-            0.11,
+            0.08,
             0.07
           ],
           "best_pick": {
             "market": "-2.5",
             "selection": "Moins de 3 buts",
-            "probability": 0.9991,
+            "probability": 0.9995,
             "fair_odds": 1.0
           },
           "top_markets": [
             {
               "market": "-2.5",
               "selection": "Moins de 3 buts",
-              "probability": 0.9991,
+              "probability": 0.9995,
               "fair_odds": 1.0
             },
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.9926,
+              "probability": 0.9948,
               "fair_odds": 1.01
             },
             {
               "market": "-1.5",
               "selection": "Moins de 2 buts",
-              "probability": 0.9854,
+              "probability": 0.9899,
               "fair_odds": 1.01
             },
             {
               "market": "1X",
               "selection": "Paderborn ou nul",
-              "probability": 0.8365,
-              "fair_odds": 1.2
+              "probability": 0.8371,
+              "fair_odds": 1.19
             },
             {
               "market": "X2",
               "selection": "Freiburg ou nul",
-              "probability": 0.7785,
-              "fair_odds": 1.28
+              "probability": 0.7929,
+              "fair_odds": 1.26
             },
             {
               "market": "X",
               "selection": "Match nul",
-              "probability": 0.6151,
-              "fair_odds": 1.63
+              "probability": 0.63,
+              "fair_odds": 1.59
             }
           ]
         },
@@ -1245,32 +1245,32 @@
           "league_name": "Bundesliga",
           "kickoff": "2026-09-05T16:30:00Z",
           "xg": [
-            0.06,
-            6.55
+            0.05,
+            6.49
           ],
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.987,
+            "probability": 0.9863,
             "fair_odds": 1.01
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.987,
+              "probability": 0.9863,
               "fair_odds": 1.01
-            },
-            {
-              "market": "+2.5",
-              "selection": "3 buts ou plus",
-              "probability": 0.9495,
-              "fair_odds": 1.05
             },
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.9396,
+              "probability": 0.9516,
+              "fair_odds": 1.05
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.9473,
               "fair_odds": 1.06
             },
             {
@@ -1288,7 +1288,7 @@
             {
               "market": "2",
               "selection": "Victoire Bayern Munich",
-              "probability": 0.8523,
+              "probability": 0.8524,
               "fair_odds": 1.17
             }
           ]
@@ -1301,50 +1301,50 @@
           "kickoff": "2026-09-05T18:45:00Z",
           "xg": [
             1.26,
-            1.0
+            1.01
           ],
           "best_pick": {
             "market": "12",
             "selection": "Pas de nul",
-            "probability": 0.7169,
+            "probability": 0.7177,
             "fair_odds": 1.39
           },
           "top_markets": [
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7169,
+              "probability": 0.7177,
               "fair_odds": 1.39
             },
             {
               "market": "1X",
               "selection": "Le Havre ou nul",
-              "probability": 0.704,
+              "probability": 0.7026,
               "fair_odds": 1.42
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.6648,
+              "probability": 0.6666,
               "fair_odds": 1.5
             },
             {
               "market": "-2.5",
               "selection": "Moins de 3 buts",
-              "probability": 0.6048,
-              "fair_odds": 1.65
+              "probability": 0.6023,
+              "fair_odds": 1.66
             },
             {
               "market": "X2",
               "selection": "Brest ou nul",
-              "probability": 0.5791,
+              "probability": 0.5797,
               "fair_odds": 1.73
             },
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.5422,
-              "fair_odds": 1.84
+              "probability": 0.5403,
+              "fair_odds": 1.85
             }
           ]
         },
@@ -1355,50 +1355,50 @@
           "league_name": "Ligue 1",
           "kickoff": "2026-09-05T18:45:00Z",
           "xg": [
-            1.54,
-            1.76
+            1.52,
+            1.75
           ],
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.8441,
-            "fair_odds": 1.18
+            "probability": 0.8398,
+            "fair_odds": 1.19
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.8441,
-              "fair_odds": 1.18
+              "probability": 0.8398,
+              "fair_odds": 1.19
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7476,
+              "probability": 0.7473,
               "fair_odds": 1.34
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.6533,
-              "fair_odds": 1.53
-            },
-            {
-              "market": "+2.5",
-              "selection": "3 buts ou plus",
-              "probability": 0.6408,
-              "fair_odds": 1.56
+              "probability": 0.6475,
+              "fair_odds": 1.54
             },
             {
               "market": "X2",
               "selection": "Le Mans ou nul",
-              "probability": 0.6382,
-              "fair_odds": 1.57
+              "probability": 0.6402,
+              "fair_odds": 1.56
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.6342,
+              "fair_odds": 1.58
             },
             {
               "market": "1X",
               "selection": "Nice ou nul",
-              "probability": 0.6142,
+              "probability": 0.6125,
               "fair_odds": 1.63
             }
           ]
@@ -1406,44 +1406,44 @@
       ],
       "combo": {
         "available": true,
-        "joint_probability": 0.857,
-        "fair_combined_odds": 1.17,
+        "joint_probability": 0.8683,
+        "fair_combined_odds": 1.15,
         "picks": [
           {
             "match": "Paderborn vs Freiburg",
             "league_name": "Bundesliga",
             "market": "-2.5",
             "selection": "Moins de 3 buts",
-            "probability": 0.9991,
+            "probability": 0.9995,
             "fair_odds": 1.0,
-            "xg": "0.11 – 0.07"
+            "xg": "0.08 – 0.07"
           },
           {
             "match": "Schalke 04 vs Bayern Munich",
             "league_name": "Bundesliga",
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.987,
+            "probability": 0.9863,
             "fair_odds": 1.01,
-            "xg": "0.06 – 6.55"
+            "xg": "0.05 – 6.49"
           },
           {
             "match": "Man City vs Coventry",
             "league_name": "Premier League",
-            "market": "1X",
-            "selection": "Man City ou nul",
-            "probability": 0.9379,
-            "fair_odds": 1.07,
-            "xg": "2.94 – 0.07"
+            "market": "BTTS Non",
+            "selection": "Au moins un clean sheet",
+            "probability": 0.9496,
+            "fair_odds": 1.05,
+            "xg": "2.94 – 0.05"
           },
           {
             "match": "M'gladbach vs Elversberg",
             "league_name": "Bundesliga",
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.9266,
+            "probability": 0.9275,
             "fair_odds": 1.08,
-            "xg": "1.52 – 2.73"
+            "xg": "1.52 – 2.75"
           }
         ]
       }
@@ -1460,50 +1460,50 @@
           "league_name": "Premier League",
           "kickoff": "2026-09-06T13:00:00Z",
           "xg": [
-            1.39,
-            1.57
+            1.4,
+            1.56
           ],
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.7978,
-            "fair_odds": 1.25
+            "probability": 0.7967,
+            "fair_odds": 1.26
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.7978,
-              "fair_odds": 1.25
+              "probability": 0.7967,
+              "fair_odds": 1.26
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7359,
+              "probability": 0.7361,
               "fair_odds": 1.36
             },
             {
               "market": "X2",
               "selection": "Man United ou nul",
-              "probability": 0.6598,
+              "probability": 0.6575,
               "fair_odds": 1.52
             },
             {
               "market": "1X",
               "selection": "Everton ou nul",
-              "probability": 0.6044,
+              "probability": 0.6064,
               "fair_odds": 1.65
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.5978,
-              "fair_odds": 1.67
+              "probability": 0.597,
+              "fair_odds": 1.68
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.5679,
+              "probability": 0.5669,
               "fair_odds": 1.76
             }
           ]
@@ -1521,44 +1521,44 @@
           "best_pick": {
             "market": "1X",
             "selection": "Arsenal ou nul",
-            "probability": 0.8579,
+            "probability": 0.8578,
             "fair_odds": 1.17
           },
           "top_markets": [
             {
               "market": "1X",
               "selection": "Arsenal ou nul",
-              "probability": 0.8579,
+              "probability": 0.8578,
               "fair_odds": 1.17
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.8333,
+              "probability": 0.8338,
               "fair_odds": 1.2
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.8056,
+              "probability": 0.8058,
               "fair_odds": 1.24
             },
             {
               "market": "1",
               "selection": "Victoire Arsenal",
-              "probability": 0.6913,
+              "probability": 0.6916,
               "fair_odds": 1.45
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.5807,
+              "probability": 0.5813,
               "fair_odds": 1.72
             },
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.5282,
+              "probability": 0.528,
               "fair_odds": 1.89
             }
           ]
@@ -1571,49 +1571,49 @@
           "kickoff": "2026-09-06T14:15:00Z",
           "xg": [
             0.83,
-            2.34
+            2.33
           ],
           "best_pick": {
             "market": "X2",
             "selection": "Barcelona ou nul",
-            "probability": 0.8325,
+            "probability": 0.8314,
             "fair_odds": 1.2
           },
           "top_markets": [
             {
               "market": "X2",
               "selection": "Barcelona ou nul",
-              "probability": 0.8325,
+              "probability": 0.8314,
               "fair_odds": 1.2
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.8273,
+              "probability": 0.8268,
               "fair_odds": 1.21
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.8261,
+              "probability": 0.825,
               "fair_odds": 1.21
             },
             {
               "market": "2",
               "selection": "Victoire Barcelona",
-              "probability": 0.6597,
+              "probability": 0.6582,
               "fair_odds": 1.52
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.6124,
-              "fair_odds": 1.63
+              "probability": 0.611,
+              "fair_odds": 1.64
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.51,
+              "probability": 0.5108,
               "fair_odds": 1.96
             }
           ]
@@ -1631,44 +1631,44 @@
           "best_pick": {
             "market": "12",
             "selection": "Pas de nul",
-            "probability": 0.7282,
+            "probability": 0.7288,
             "fair_odds": 1.37
           },
           "top_markets": [
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7282,
+              "probability": 0.7288,
               "fair_odds": 1.37
             },
             {
               "market": "1X",
               "selection": "Alaves ou nul",
-              "probability": 0.7258,
+              "probability": 0.726,
               "fair_odds": 1.38
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.6848,
+              "probability": 0.6846,
               "fair_odds": 1.46
             },
             {
               "market": "-2.5",
               "selection": "Moins de 3 buts",
-              "probability": 0.5816,
+              "probability": 0.5814,
               "fair_odds": 1.72
             },
             {
               "market": "X2",
               "selection": "Osasuna ou nul",
-              "probability": 0.5461,
+              "probability": 0.5453,
               "fair_odds": 1.83
             },
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.5291,
+              "probability": 0.5296,
               "fair_odds": 1.89
             }
           ]
@@ -1680,51 +1680,51 @@
           "league_name": "La Liga",
           "kickoff": "2026-09-06T16:30:00Z",
           "xg": [
-            0.47,
-            1.66
+            0.48,
+            1.65
           ],
           "best_pick": {
             "market": "X2",
             "selection": "Levante ou nul",
-            "probability": 0.7855,
-            "fair_odds": 1.27
+            "probability": 0.7834,
+            "fair_odds": 1.28
           },
           "top_markets": [
             {
               "market": "X2",
               "selection": "Levante ou nul",
-              "probability": 0.7855,
-              "fair_odds": 1.27
+              "probability": 0.7834,
+              "fair_odds": 1.28
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7476,
+              "probability": 0.7468,
               "fair_odds": 1.34
             },
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.695,
-              "fair_odds": 1.44
+              "probability": 0.6902,
+              "fair_odds": 1.45
             },
             {
               "market": "-2.5",
               "selection": "Moins de 3 buts",
-              "probability": 0.6418,
+              "probability": 0.641,
               "fair_odds": 1.56
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.6302,
+              "probability": 0.6306,
               "fair_odds": 1.59
             },
             {
               "market": "2",
               "selection": "Victoire Levante",
-              "probability": 0.5331,
-              "fair_odds": 1.88
+              "probability": 0.5302,
+              "fair_odds": 1.89
             }
           ]
         },
@@ -1754,13 +1754,13 @@
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7373,
+              "probability": 0.7378,
               "fair_odds": 1.36
             },
             {
               "market": "1X",
               "selection": "Espanol ou nul",
-              "probability": 0.7081,
+              "probability": 0.7076,
               "fair_odds": 1.41
             },
             {
@@ -1772,13 +1772,13 @@
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.5333,
-              "fair_odds": 1.88
+              "probability": 0.5334,
+              "fair_odds": 1.87
             },
             {
               "market": "-2.5",
               "selection": "Moins de 3 buts",
-              "probability": 0.5085,
+              "probability": 0.508,
               "fair_odds": 1.97
             }
           ]
@@ -1790,51 +1790,51 @@
           "league_name": "Serie A",
           "kickoff": "2026-09-06T13:00:00Z",
           "xg": [
-            1.46,
-            1.22
+            1.48,
+            1.2
           ],
           "best_pick": {
             "market": "12",
             "selection": "Pas de nul",
-            "probability": 0.7734,
+            "probability": 0.7745,
             "fair_odds": 1.29
           },
           "top_markets": [
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7734,
+              "probability": 0.7745,
               "fair_odds": 1.29
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.7499,
+              "probability": 0.7508,
               "fair_odds": 1.33
             },
             {
               "market": "1X",
               "selection": "Parma ou nul",
-              "probability": 0.7173,
+              "probability": 0.7213,
               "fair_odds": 1.39
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.5431,
+              "probability": 0.5429,
               "fair_odds": 1.84
             },
             {
               "market": "X2",
               "selection": "Monza ou nul",
-              "probability": 0.5093,
-              "fair_odds": 1.96
+              "probability": 0.5042,
+              "fair_odds": 1.98
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.5002,
-              "fair_odds": 2.0
+              "probability": 0.5019,
+              "fair_odds": 1.99
             }
           ]
         },
@@ -1845,51 +1845,51 @@
           "league_name": "Serie A",
           "kickoff": "2026-09-06T13:00:00Z",
           "xg": [
-            3.22,
+            3.18,
             0.09
           ],
           "best_pick": {
             "market": "BTTS Non",
             "selection": "Au moins un clean sheet",
-            "probability": 0.9201,
+            "probability": 0.9172,
             "fair_odds": 1.09
           },
           "top_markets": [
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.9201,
+              "probability": 0.9172,
               "fair_odds": 1.09
             },
             {
               "market": "1X",
               "selection": "Frosinone ou nul",
-              "probability": 0.9141,
+              "probability": 0.9139,
               "fair_odds": 1.09
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.9077,
+              "probability": 0.9064,
               "fair_odds": 1.1
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.8413,
-              "fair_odds": 1.19
+              "probability": 0.8365,
+              "fair_odds": 1.2
             },
             {
               "market": "1",
               "selection": "Victoire Frosinone",
-              "probability": 0.8218,
+              "probability": 0.8203,
               "fair_odds": 1.22
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.6394,
-              "fair_odds": 1.56
+              "probability": 0.6316,
+              "fair_odds": 1.58
             }
           ]
         },
@@ -1906,44 +1906,44 @@
           "best_pick": {
             "market": "12",
             "selection": "Pas de nul",
-            "probability": 0.7344,
+            "probability": 0.735,
             "fair_odds": 1.36
           },
           "top_markets": [
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7344,
+              "probability": 0.735,
               "fair_odds": 1.36
-            },
-            {
-              "market": "1X",
-              "selection": "Bologna ou nul",
-              "probability": 0.7144,
-              "fair_odds": 1.4
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
+              "probability": 0.714,
+              "fair_odds": 1.4
+            },
+            {
+              "market": "1X",
+              "selection": "Bologna ou nul",
               "probability": 0.7133,
               "fair_odds": 1.4
             },
             {
               "market": "X2",
               "selection": "Sassuolo ou nul",
-              "probability": 0.5512,
+              "probability": 0.5517,
               "fair_odds": 1.81
             },
             {
               "market": "-2.5",
               "selection": "Moins de 3 buts",
-              "probability": 0.5471,
+              "probability": 0.5457,
               "fair_odds": 1.83
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.5027,
+              "probability": 0.5037,
               "fair_odds": 1.99
             }
           ]
@@ -1955,50 +1955,50 @@
           "league_name": "Serie A",
           "kickoff": "2026-09-06T18:45:00Z",
           "xg": [
-            1.48,
+            1.49,
             0.74
           ],
           "best_pick": {
             "market": "1X",
             "selection": "Juventus ou nul",
-            "probability": 0.7783,
-            "fair_odds": 1.28
+            "probability": 0.7781,
+            "fair_odds": 1.29
           },
           "top_markets": [
             {
               "market": "1X",
               "selection": "Juventus ou nul",
-              "probability": 0.7783,
-              "fair_odds": 1.28
+              "probability": 0.7781,
+              "fair_odds": 1.29
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7417,
+              "probability": 0.7429,
               "fair_odds": 1.35
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.6535,
-              "fair_odds": 1.53
+              "probability": 0.6565,
+              "fair_odds": 1.52
             },
             {
               "market": "-2.5",
               "selection": "Moins de 3 buts",
-              "probability": 0.6171,
-              "fair_odds": 1.62
+              "probability": 0.6134,
+              "fair_odds": 1.63
             },
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.5937,
-              "fair_odds": 1.68
+              "probability": 0.5914,
+              "fair_odds": 1.69
             },
             {
               "market": "1",
               "selection": "Victoire Juventus",
-              "probability": 0.52,
+              "probability": 0.521,
               "fair_odds": 1.92
             }
           ]
@@ -2010,51 +2010,51 @@
           "league_name": "Bundesliga",
           "kickoff": "2026-09-06T13:30:00Z",
           "xg": [
-            1.18,
+            1.17,
             1.2
           ],
           "best_pick": {
             "market": "12",
             "selection": "Pas de nul",
-            "probability": 0.717,
+            "probability": 0.7169,
             "fair_odds": 1.39
           },
           "top_markets": [
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.717,
+              "probability": 0.7169,
               "fair_odds": 1.39
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.6906,
+              "probability": 0.6875,
               "fair_odds": 1.45
             },
             {
               "market": "1X",
               "selection": "Hamburg ou nul",
-              "probability": 0.6527,
+              "probability": 0.6524,
               "fair_odds": 1.53
             },
             {
               "market": "X2",
               "selection": "Mainz ou nul",
-              "probability": 0.6304,
+              "probability": 0.6306,
               "fair_odds": 1.59
             },
             {
               "market": "-2.5",
               "selection": "Moins de 3 buts",
-              "probability": 0.5748,
-              "fair_odds": 1.74
+              "probability": 0.5781,
+              "fair_odds": 1.73
             },
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.5125,
-              "fair_odds": 1.95
+              "probability": 0.5155,
+              "fair_odds": 1.94
             }
           ]
         },
@@ -2065,50 +2065,50 @@
           "league_name": "Bundesliga",
           "kickoff": "2026-09-06T15:30:00Z",
           "xg": [
-            2.09,
-            1.38
+            2.1,
+            1.39
           ],
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.8633,
+            "probability": 0.8643,
             "fair_odds": 1.16
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.8633,
+              "probability": 0.8643,
               "fair_odds": 1.16
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7665,
+              "probability": 0.7673,
               "fair_odds": 1.3
             },
             {
               "market": "1X",
               "selection": "Ein Frankfurt ou nul",
-              "probability": 0.7256,
+              "probability": 0.7261,
               "fair_odds": 1.38
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.6737,
+              "probability": 0.676,
               "fair_odds": 1.48
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.6587,
+              "probability": 0.6598,
               "fair_odds": 1.52
             },
             {
               "market": "X2",
               "selection": "Augsburg ou nul",
-              "probability": 0.5078,
+              "probability": 0.5066,
               "fair_odds": 1.97
             }
           ]
@@ -2121,49 +2121,49 @@
           "kickoff": "2026-09-06T13:00:00Z",
           "xg": [
             1.51,
-            0.54
+            0.55
           ],
           "best_pick": {
             "market": "1X",
             "selection": "Troyes ou nul",
-            "probability": 0.795,
+            "probability": 0.7936,
             "fair_odds": 1.26
           },
           "top_markets": [
             {
               "market": "1X",
               "selection": "Troyes ou nul",
-              "probability": 0.795,
+              "probability": 0.7936,
               "fair_odds": 1.26
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7307,
+              "probability": 0.7316,
               "fair_odds": 1.37
             },
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.672,
-              "fair_odds": 1.49
+              "probability": 0.6669,
+              "fair_odds": 1.5
             },
             {
               "market": "-2.5",
               "selection": "Moins de 3 buts",
-              "probability": 0.6639,
-              "fair_odds": 1.51
+              "probability": 0.6591,
+              "fair_odds": 1.52
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.6093,
-              "fair_odds": 1.64
+              "probability": 0.6137,
+              "fair_odds": 1.63
             },
             {
               "market": "1",
               "selection": "Victoire Troyes",
-              "probability": 0.5257,
+              "probability": 0.5252,
               "fair_odds": 1.9
             }
           ]
@@ -2175,50 +2175,50 @@
           "league_name": "Ligue 1",
           "kickoff": "2026-09-06T15:15:00Z",
           "xg": [
-            1.16,
+            1.15,
             1.75
           ],
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.7892,
+            "probability": 0.7885,
             "fair_odds": 1.27
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.7892,
+              "probability": 0.7885,
               "fair_odds": 1.27
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7586,
+              "probability": 0.7592,
               "fair_odds": 1.32
             },
             {
               "market": "X2",
               "selection": "Rennes ou nul",
-              "probability": 0.7174,
+              "probability": 0.7181,
               "fair_odds": 1.39
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.5689,
+              "probability": 0.5676,
               "fair_odds": 1.76
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.5554,
+              "probability": 0.5549,
               "fair_odds": 1.8
             },
             {
               "market": "1X",
               "selection": "Angers ou nul",
-              "probability": 0.524,
+              "probability": 0.5226,
               "fair_odds": 1.91
             }
           ]
@@ -2230,50 +2230,50 @@
           "league_name": "Ligue 1",
           "kickoff": "2026-09-06T18:45:00Z",
           "xg": [
-            1.45,
-            1.3
+            1.44,
+            1.29
           ],
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.7617,
-            "fair_odds": 1.31
+            "probability": 0.7599,
+            "fair_odds": 1.32
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.7617,
-              "fair_odds": 1.31
+              "probability": 0.7599,
+              "fair_odds": 1.32
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7453,
+              "probability": 0.7454,
               "fair_odds": 1.34
             },
             {
               "market": "1X",
               "selection": "Marseille ou nul",
-              "probability": 0.6813,
+              "probability": 0.6802,
               "fair_odds": 1.47
             },
             {
               "market": "X2",
               "selection": "Paris FC ou nul",
-              "probability": 0.5734,
+              "probability": 0.5743,
               "fair_odds": 1.74
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.5581,
-              "fair_odds": 1.79
+              "probability": 0.5564,
+              "fair_odds": 1.8
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.5163,
+              "probability": 0.5143,
               "fair_odds": 1.94
             }
           ]
@@ -2281,7 +2281,7 @@
       ],
       "combo": {
         "available": true,
-        "joint_probability": 0.5673,
+        "joint_probability": 0.5654,
         "fair_combined_odds": 1.78,
         "picks": [
           {
@@ -2289,25 +2289,25 @@
             "league_name": "Serie A",
             "market": "BTTS Non",
             "selection": "Au moins un clean sheet",
-            "probability": 0.9201,
+            "probability": 0.9172,
             "fair_odds": 1.09,
-            "xg": "3.22 – 0.09"
+            "xg": "3.18 – 0.09"
           },
           {
             "match": "Ein Frankfurt vs Augsburg",
             "league_name": "Bundesliga",
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.8633,
+            "probability": 0.8643,
             "fair_odds": 1.16,
-            "xg": "2.09 – 1.38"
+            "xg": "2.10 – 1.39"
           },
           {
             "match": "Arsenal vs Chelsea",
             "league_name": "Premier League",
             "market": "1X",
             "selection": "Arsenal ou nul",
-            "probability": 0.8579,
+            "probability": 0.8578,
             "fair_odds": 1.17,
             "xg": "2.28 – 0.74"
           },
@@ -2316,9 +2316,9 @@
             "league_name": "La Liga",
             "market": "X2",
             "selection": "Barcelona ou nul",
-            "probability": 0.8325,
+            "probability": 0.8314,
             "fair_odds": 1.2,
-            "xg": "0.83 – 2.34"
+            "xg": "0.83 – 2.33"
           }
         ]
       }
