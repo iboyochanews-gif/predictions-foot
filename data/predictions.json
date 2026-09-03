@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-03T15:58:47Z",
-    "next_update_at": "2026-09-03T21:57:49Z",
+    "generated_at": "2026-09-03T20:39:55Z",
+    "next_update_at": "2026-09-04T02:38:52Z",
     "training": {
       "n_matches": 3601,
       "date_range": "2024-08-15 → 2026-08-31",
@@ -17,127 +17,6 @@
     "status": "ok"
   },
   "days": [
-    {
-      "date": "2026-09-03",
-      "is_today": true,
-      "fixtures_count": 2,
-      "fixtures": [
-        {
-          "home": "Sociedad",
-          "away": "Celta",
-          "league": "SP1",
-          "league_name": "La Liga",
-          "kickoff": "2026-09-03T19:00:00Z",
-          "xg": [
-            1.68,
-            1.33
-          ],
-          "best_pick": {
-            "market": "+1.5",
-            "selection": "2 buts ou plus",
-            "probability": 0.8047,
-            "fair_odds": 1.24
-          },
-          "top_markets": [
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.8047,
-              "fair_odds": 1.24
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7443,
-              "fair_odds": 1.34
-            },
-            {
-              "market": "1X",
-              "selection": "Sociedad ou nul",
-              "probability": 0.6953,
-              "fair_odds": 1.44
-            },
-            {
-              "market": "BTTS Oui",
-              "selection": "Les deux marquent",
-              "probability": 0.6005,
-              "fair_odds": 1.67
-            },
-            {
-              "market": "+2.5",
-              "selection": "3 buts ou plus",
-              "probability": 0.5789,
-              "fair_odds": 1.73
-            },
-            {
-              "market": "X2",
-              "selection": "Celta ou nul",
-              "probability": 0.5604,
-              "fair_odds": 1.78
-            }
-          ]
-        },
-        {
-          "home": "Toulouse",
-          "away": "Lille",
-          "league": "F1",
-          "league_name": "Ligue 1",
-          "kickoff": "2026-09-03T18:45:00Z",
-          "xg": [
-            0.96,
-            1.37
-          ],
-          "best_pick": {
-            "market": "12",
-            "selection": "Pas de nul",
-            "probability": 0.7234,
-            "fair_odds": 1.38
-          },
-          "top_markets": [
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7234,
-              "fair_odds": 1.38
-            },
-            {
-              "market": "X2",
-              "selection": "Lille ou nul",
-              "probability": 0.7017,
-              "fair_odds": 1.43
-            },
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.6776,
-              "fair_odds": 1.48
-            },
-            {
-              "market": "-2.5",
-              "selection": "Moins de 3 buts",
-              "probability": 0.5896,
-              "fair_odds": 1.7
-            },
-            {
-              "market": "1X",
-              "selection": "Toulouse ou nul",
-              "probability": 0.575,
-              "fair_odds": 1.74
-            },
-            {
-              "market": "BTTS Non",
-              "selection": "Au moins un clean sheet",
-              "probability": 0.5383,
-              "fair_odds": 1.86
-            }
-          ]
-        }
-      ],
-      "combo": {
-        "available": false,
-        "reason": "Pas assez de sélections au-dessus de 65% de confiance (2 disponibles, 4 requises)."
-      }
-    },
     {
       "date": "2026-09-04",
       "is_today": false,
