@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T16:00:22Z",
-    "next_update_at": "2026-09-10T21:59:14Z",
+    "generated_at": "2026-09-10T20:32:47Z",
+    "next_update_at": "2026-09-11T02:31:42Z",
     "training": {
       "n_matches": 3650,
       "date_range": "2024-08-15 → 2026-09-07",
@@ -20,7 +20,7 @@
     {
       "date": "2026-09-11",
       "is_today": false,
-      "fixtures_count": 2,
+      "fixtures_count": 1,
       "fixtures": [
         {
           "home": "Sevilla",
@@ -76,72 +76,17 @@
               "fair_odds": 1.93
             }
           ]
-        },
-        {
-          "home": "Venezia",
-          "away": "Fiorentina",
-          "league": "I1",
-          "league_name": "Serie A",
-          "kickoff": "2026-09-11T18:45:00Z",
-          "xg": [
-            0.98,
-            1.4
-          ],
-          "best_pick": {
-            "market": "12",
-            "selection": "Pas de nul",
-            "probability": 0.7182,
-            "fair_odds": 1.39
-          },
-          "top_markets": [
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7182,
-              "fair_odds": 1.39
-            },
-            {
-              "market": "X2",
-              "selection": "Fiorentina ou nul",
-              "probability": 0.7061,
-              "fair_odds": 1.42
-            },
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.6943,
-              "fair_odds": 1.44
-            },
-            {
-              "market": "1X",
-              "selection": "Venezia ou nul",
-              "probability": 0.5757,
-              "fair_odds": 1.74
-            },
-            {
-              "market": "-2.5",
-              "selection": "Moins de 3 buts",
-              "probability": 0.5745,
-              "fair_odds": 1.74
-            },
-            {
-              "market": "BTTS Non",
-              "selection": "Au moins un clean sheet",
-              "probability": 0.5217,
-              "fair_odds": 1.92
-            }
-          ]
         }
       ],
       "combo": {
         "available": false,
-        "reason": "Pas assez de sélections au-dessus de 65% de confiance (2 disponibles, 4 requises)."
+        "reason": "Pas assez de sélections au-dessus de 65% de confiance (1 disponibles, 4 requises)."
       }
     },
     {
       "date": "2026-09-12",
       "is_today": false,
-      "fixtures_count": 12,
+      "fixtures_count": 9,
       "fixtures": [
         {
           "home": "Crystal Palace",
@@ -637,171 +582,6 @@
               "fair_odds": 1.98
             }
           ]
-        },
-        {
-          "home": "Genoa",
-          "away": "Frosinone",
-          "league": "I1",
-          "league_name": "Serie A",
-          "kickoff": "2026-09-12T13:00:00Z",
-          "xg": [
-            1.0,
-            1.76
-          ],
-          "best_pick": {
-            "market": "+1.5",
-            "selection": "2 buts ou plus",
-            "probability": 0.768,
-            "fair_odds": 1.3
-          },
-          "top_markets": [
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.768,
-              "fair_odds": 1.3
-            },
-            {
-              "market": "X2",
-              "selection": "Frosinone ou nul",
-              "probability": 0.7499,
-              "fair_odds": 1.33
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7348,
-              "fair_odds": 1.36
-            },
-            {
-              "market": "BTTS Oui",
-              "selection": "Les deux marquent",
-              "probability": 0.5291,
-              "fair_odds": 1.89
-            },
-            {
-              "market": "+2.5",
-              "selection": "3 buts ou plus",
-              "probability": 0.521,
-              "fair_odds": 1.92
-            },
-            {
-              "market": "1X",
-              "selection": "Genoa ou nul",
-              "probability": 0.5153,
-              "fair_odds": 1.94
-            }
-          ]
-        },
-        {
-          "home": "Lazio",
-          "away": "Milan",
-          "league": "I1",
-          "league_name": "Serie A",
-          "kickoff": "2026-09-12T16:00:00Z",
-          "xg": [
-            1.0,
-            0.95
-          ],
-          "best_pick": {
-            "market": "12",
-            "selection": "Pas de nul",
-            "probability": 0.6923,
-            "fair_odds": 1.44
-          },
-          "top_markets": [
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.6923,
-              "fair_odds": 1.44
-            },
-            {
-              "market": "-2.5",
-              "selection": "Moins de 3 buts",
-              "probability": 0.6893,
-              "fair_odds": 1.45
-            },
-            {
-              "market": "1X",
-              "selection": "Lazio ou nul",
-              "probability": 0.6791,
-              "fair_odds": 1.47
-            },
-            {
-              "market": "X2",
-              "selection": "Milan ou nul",
-              "probability": 0.6286,
-              "fair_odds": 1.59
-            },
-            {
-              "market": "BTTS Non",
-              "selection": "Au moins un clean sheet",
-              "probability": 0.6043,
-              "fair_odds": 1.65
-            },
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.5885,
-              "fair_odds": 1.7
-            }
-          ]
-        },
-        {
-          "home": "Atalanta",
-          "away": "Cagliari",
-          "league": "I1",
-          "league_name": "Serie A",
-          "kickoff": "2026-09-12T18:45:00Z",
-          "xg": [
-            1.41,
-            0.65
-          ],
-          "best_pick": {
-            "market": "1X",
-            "selection": "Atalanta ou nul",
-            "probability": 0.8002,
-            "fair_odds": 1.25
-          },
-          "top_markets": [
-            {
-              "market": "1X",
-              "selection": "Atalanta ou nul",
-              "probability": 0.8002,
-              "fair_odds": 1.25
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7631,
-              "fair_odds": 1.31
-            },
-            {
-              "market": "-2.5",
-              "selection": "Moins de 3 buts",
-              "probability": 0.659,
-              "fair_odds": 1.52
-            },
-            {
-              "market": "BTTS Non",
-              "selection": "Au moins un clean sheet",
-              "probability": 0.6312,
-              "fair_odds": 1.58
-            },
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.6176,
-              "fair_odds": 1.62
-            },
-            {
-              "market": "1",
-              "selection": "Victoire Atalanta",
-              "probability": 0.5633,
-              "fair_odds": 1.78
-            }
-          ]
         }
       ],
       "combo": {
@@ -851,7 +631,7 @@
     {
       "date": "2026-09-13",
       "is_today": false,
-      "fixtures_count": 8,
+      "fixtures_count": 5,
       "fixtures": [
         {
           "home": "Coventry",
@@ -1125,171 +905,6 @@
               "selection": "Sociedad ou nul",
               "probability": 0.6206,
               "fair_odds": 1.61
-            }
-          ]
-        },
-        {
-          "home": "Lecce",
-          "away": "Monza",
-          "league": "I1",
-          "league_name": "Serie A",
-          "kickoff": "2026-09-13T13:00:00Z",
-          "xg": [
-            1.47,
-            1.25
-          ],
-          "best_pick": {
-            "market": "12",
-            "selection": "Pas de nul",
-            "probability": 0.7659,
-            "fair_odds": 1.31
-          },
-          "top_markets": [
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7659,
-              "fair_odds": 1.31
-            },
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.7617,
-              "fair_odds": 1.31
-            },
-            {
-              "market": "1X",
-              "selection": "Lecce ou nul",
-              "probability": 0.7201,
-              "fair_odds": 1.39
-            },
-            {
-              "market": "BTTS Oui",
-              "selection": "Les deux marquent",
-              "probability": 0.5561,
-              "fair_odds": 1.8
-            },
-            {
-              "market": "X2",
-              "selection": "Monza ou nul",
-              "probability": 0.514,
-              "fair_odds": 1.95
-            },
-            {
-              "market": "+2.5",
-              "selection": "3 buts ou plus",
-              "probability": 0.5117,
-              "fair_odds": 1.95
-            }
-          ]
-        },
-        {
-          "home": "Napoli",
-          "away": "Bologna",
-          "league": "I1",
-          "league_name": "Serie A",
-          "kickoff": "2026-09-13T16:00:00Z",
-          "xg": [
-            1.8,
-            0.87
-          ],
-          "best_pick": {
-            "market": "1X",
-            "selection": "Napoli ou nul",
-            "probability": 0.806,
-            "fair_odds": 1.24
-          },
-          "top_markets": [
-            {
-              "market": "1X",
-              "selection": "Napoli ou nul",
-              "probability": 0.806,
-              "fair_odds": 1.24
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7904,
-              "fair_odds": 1.27
-            },
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.7509,
-              "fair_odds": 1.33
-            },
-            {
-              "market": "1",
-              "selection": "Victoire Napoli",
-              "probability": 0.5964,
-              "fair_odds": 1.68
-            },
-            {
-              "market": "BTTS Non",
-              "selection": "Au moins un clean sheet",
-              "probability": 0.5097,
-              "fair_odds": 1.96
-            },
-            {
-              "market": "-2.5",
-              "selection": "Moins de 3 buts",
-              "probability": 0.5021,
-              "fair_odds": 1.99
-            }
-          ]
-        },
-        {
-          "home": "Sassuolo",
-          "away": "Juventus",
-          "league": "I1",
-          "league_name": "Serie A",
-          "kickoff": "2026-09-13T18:45:00Z",
-          "xg": [
-            0.93,
-            1.54
-          ],
-          "best_pick": {
-            "market": "X2",
-            "selection": "Juventus ou nul",
-            "probability": 0.7348,
-            "fair_odds": 1.36
-          },
-          "top_markets": [
-            {
-              "market": "X2",
-              "selection": "Juventus ou nul",
-              "probability": 0.7348,
-              "fair_odds": 1.36
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7328,
-              "fair_odds": 1.36
-            },
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.7121,
-              "fair_odds": 1.4
-            },
-            {
-              "market": "-2.5",
-              "selection": "Moins de 3 buts",
-              "probability": 0.5526,
-              "fair_odds": 1.81
-            },
-            {
-              "market": "1X",
-              "selection": "Sassuolo ou nul",
-              "probability": 0.5324,
-              "fair_odds": 1.88
-            },
-            {
-              "market": "BTTS Non",
-              "selection": "Au moins un clean sheet",
-              "probability": 0.5192,
-              "fair_odds": 1.93
             }
           ]
         }
