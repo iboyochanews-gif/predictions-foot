@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-11T20:38:27Z",
-    "next_update_at": "2026-09-12T02:37:26Z",
+    "generated_at": "2026-09-12T03:38:13Z",
+    "next_update_at": "2026-09-12T09:37:11Z",
     "training": {
       "n_matches": 3650,
       "date_range": "2024-08-15 → 2026-09-07",
@@ -19,7 +19,7 @@
   "days": [
     {
       "date": "2026-09-12",
-      "is_today": false,
+      "is_today": true,
       "fixtures_count": 23,
       "fixtures": [
         {
@@ -2365,6 +2365,182 @@
             "xg": "1.72 – 1.35"
           }
         ]
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "is_today": false,
+      "fixtures_count": 3,
+      "fixtures": [
+        {
+          "home": "Vallecano",
+          "away": "Espanol",
+          "league": "SP1",
+          "league_name": "La Liga",
+          "kickoff": "2026-09-15T17:00:00Z",
+          "xg": [
+            1.42,
+            1.04
+          ],
+          "best_pick": {
+            "market": "12",
+            "selection": "Pas de nul",
+            "probability": 0.7433,
+            "fair_odds": 1.35
+          },
+          "top_markets": [
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7433,
+              "fair_odds": 1.35
+            },
+            {
+              "market": "1X",
+              "selection": "Vallecano ou nul",
+              "probability": 0.7295,
+              "fair_odds": 1.37
+            },
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.7105,
+              "fair_odds": 1.41
+            },
+            {
+              "market": "-2.5",
+              "selection": "Moins de 3 buts",
+              "probability": 0.555,
+              "fair_odds": 1.8
+            },
+            {
+              "market": "X2",
+              "selection": "Espanol ou nul",
+              "probability": 0.5272,
+              "fair_odds": 1.9
+            },
+            {
+              "market": "BTTS Non",
+              "selection": "Au moins un clean sheet",
+              "probability": 0.504,
+              "fair_odds": 1.98
+            }
+          ]
+        },
+        {
+          "home": "Alaves",
+          "away": "Valencia",
+          "league": "SP1",
+          "league_name": "La Liga",
+          "kickoff": "2026-09-15T18:00:00Z",
+          "xg": [
+            1.93,
+            0.96
+          ],
+          "best_pick": {
+            "market": "1X",
+            "selection": "Alaves ou nul",
+            "probability": 0.7908,
+            "fair_odds": 1.26
+          },
+          "top_markets": [
+            {
+              "market": "1X",
+              "selection": "Alaves ou nul",
+              "probability": 0.7908,
+              "fair_odds": 1.26
+            },
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.7885,
+              "fair_odds": 1.27
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7638,
+              "fair_odds": 1.31
+            },
+            {
+              "market": "1",
+              "selection": "Victoire Alaves",
+              "probability": 0.5546,
+              "fair_odds": 1.8
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.5504,
+              "fair_odds": 1.82
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.5321,
+              "fair_odds": 1.88
+            }
+          ]
+        },
+        {
+          "home": "Elche",
+          "away": "Real Madrid",
+          "league": "SP1",
+          "league_name": "La Liga",
+          "kickoff": "2026-09-15T19:30:00Z",
+          "xg": [
+            0.96,
+            2.39
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.852,
+            "fair_odds": 1.17
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.852,
+              "fair_odds": 1.17
+            },
+            {
+              "market": "X2",
+              "selection": "Real Madrid ou nul",
+              "probability": 0.8302,
+              "fair_odds": 1.2
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.8165,
+              "fair_odds": 1.22
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.6509,
+              "fair_odds": 1.54
+            },
+            {
+              "market": "2",
+              "selection": "Victoire Real Madrid",
+              "probability": 0.6467,
+              "fair_odds": 1.55
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.5657,
+              "fair_odds": 1.77
+            }
+          ]
+        }
+      ],
+      "combo": {
+        "available": false,
+        "reason": "Pas assez de sélections au-dessus de 65% de confiance (3 disponibles, 4 requises)."
       }
     }
   ]
