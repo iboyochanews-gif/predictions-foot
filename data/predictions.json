@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-16T16:21:07Z",
-    "next_update_at": "2026-09-16T22:19:58Z",
+    "generated_at": "2026-09-16T21:00:07Z",
+    "next_update_at": "2026-09-17T02:59:04Z",
     "training": {
       "n_matches": 3698,
       "date_range": "2024-08-15 → 2026-09-14",
@@ -17,127 +17,6 @@
     "status": "ok"
   },
   "days": [
-    {
-      "date": "2026-09-16",
-      "is_today": true,
-      "fixtures_count": 2,
-      "fixtures": [
-        {
-          "home": "Ath Madrid",
-          "away": "Osasuna",
-          "league": "SP1",
-          "league_name": "La Liga",
-          "kickoff": "2026-09-16T17:00:00Z",
-          "xg": [
-            2.12,
-            0.99
-          ],
-          "best_pick": {
-            "market": "+1.5",
-            "selection": "2 buts ou plus",
-            "probability": 0.8237,
-            "fair_odds": 1.21
-          },
-          "top_markets": [
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.8237,
-              "fair_odds": 1.21
-            },
-            {
-              "market": "1X",
-              "selection": "Ath Madrid ou nul",
-              "probability": 0.8192,
-              "fair_odds": 1.22
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.8119,
-              "fair_odds": 1.23
-            },
-            {
-              "market": "1",
-              "selection": "Victoire Ath Madrid",
-              "probability": 0.6312,
-              "fair_odds": 1.58
-            },
-            {
-              "market": "+2.5",
-              "selection": "3 buts ou plus",
-              "probability": 0.6017,
-              "fair_odds": 1.66
-            },
-            {
-              "market": "BTTS Oui",
-              "selection": "Les deux marquent",
-              "probability": 0.561,
-              "fair_odds": 1.78
-            }
-          ]
-        },
-        {
-          "home": "Levante",
-          "away": "Ath Bilbao",
-          "league": "SP1",
-          "league_name": "La Liga",
-          "kickoff": "2026-09-16T19:30:00Z",
-          "xg": [
-            1.54,
-            1.37
-          ],
-          "best_pick": {
-            "market": "+1.5",
-            "selection": "2 buts ou plus",
-            "probability": 0.7943,
-            "fair_odds": 1.26
-          },
-          "top_markets": [
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.7943,
-              "fair_odds": 1.26
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7328,
-              "fair_odds": 1.36
-            },
-            {
-              "market": "1X",
-              "selection": "Levante ou nul",
-              "probability": 0.6754,
-              "fair_odds": 1.48
-            },
-            {
-              "market": "BTTS Oui",
-              "selection": "Les deux marquent",
-              "probability": 0.5933,
-              "fair_odds": 1.69
-            },
-            {
-              "market": "X2",
-              "selection": "Ath Bilbao ou nul",
-              "probability": 0.5918,
-              "fair_odds": 1.69
-            },
-            {
-              "market": "+2.5",
-              "selection": "3 buts ou plus",
-              "probability": 0.5553,
-              "fair_odds": 1.8
-            }
-          ]
-        }
-      ],
-      "combo": {
-        "available": false,
-        "reason": "Pas assez de sélections au-dessus de 65% de confiance (2 disponibles, 4 requises)."
-      }
-    },
     {
       "date": "2026-09-17",
       "is_today": false,
