@@ -1,18 +1,18 @@
 {
   "meta": {
-    "generated_at": "2026-09-21T12:15:48Z",
-    "next_update_at": "2026-09-21T18:14:46Z",
+    "generated_at": "2026-09-21T21:48:06Z",
+    "next_update_at": "2026-09-22T03:47:02Z",
     "training": {
-      "n_matches": 3706,
-      "date_range": "2024-08-15 → 2026-09-17",
+      "n_matches": 3754,
+      "date_range": "2024-08-15 → 2026-09-20",
       "n_teams": 121
     },
     "model": "Dixon-Coles + Elo + Forme récente (ensemble pondéré)",
     "params": {
       "min_confidence": 0.65,
       "combo_size": 4,
-      "dixon_coles_home_adv": 0.2,
-      "dixon_coles_rho": -0.058
+      "dixon_coles_home_adv": 0.231,
+      "dixon_coles_rho": -0.056
     },
     "status": "ok"
   },
