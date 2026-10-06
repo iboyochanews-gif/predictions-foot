@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-05T23:51:40Z",
-    "next_update_at": "2026-10-06T05:50:28Z",
+    "generated_at": "2026-10-06T05:23:05Z",
+    "next_update_at": "2026-10-06T11:22:02Z",
     "training": {
       "n_matches": 3754,
       "date_range": "2024-08-15 → 2026-09-20",
@@ -16,5 +16,127 @@
     },
     "status": "ok"
   },
-  "days": []
+  "days": [
+    {
+      "date": "2026-10-09",
+      "is_today": false,
+      "fixtures_count": 2,
+      "fixtures": [
+        {
+          "home": "Malaga",
+          "away": "Espanol",
+          "league": "SP1",
+          "league_name": "La Liga",
+          "kickoff": "2026-10-09T19:00:00Z",
+          "xg": [
+            0.54,
+            1.15
+          ],
+          "best_pick": {
+            "market": "-2.5",
+            "selection": "Moins de 3 buts",
+            "probability": 0.7593,
+            "fair_odds": 1.32
+          },
+          "top_markets": [
+            {
+              "market": "-2.5",
+              "selection": "Moins de 3 buts",
+              "probability": 0.7593,
+              "fair_odds": 1.32
+            },
+            {
+              "market": "X2",
+              "selection": "Espanol ou nul",
+              "probability": 0.726,
+              "fair_odds": 1.38
+            },
+            {
+              "market": "BTTS Non",
+              "selection": "Au moins un clean sheet",
+              "probability": 0.7088,
+              "fair_odds": 1.41
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.6982,
+              "fair_odds": 1.43
+            },
+            {
+              "market": "1X",
+              "selection": "Malaga ou nul",
+              "probability": 0.5758,
+              "fair_odds": 1.74
+            },
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.5107,
+              "fair_odds": 1.96
+            }
+          ]
+        },
+        {
+          "home": "Dortmund",
+          "away": "Werder Bremen",
+          "league": "D1",
+          "league_name": "Bundesliga",
+          "kickoff": "2026-10-09T18:30:00Z",
+          "xg": [
+            2.39,
+            0.63
+          ],
+          "best_pick": {
+            "market": "1X",
+            "selection": "Dortmund ou nul",
+            "probability": 0.895,
+            "fair_odds": 1.12
+          },
+          "top_markets": [
+            {
+              "market": "1X",
+              "selection": "Dortmund ou nul",
+              "probability": 0.895,
+              "fair_odds": 1.12
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.8444,
+              "fair_odds": 1.18
+            },
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.8072,
+              "fair_odds": 1.24
+            },
+            {
+              "market": "1",
+              "selection": "Victoire Dortmund",
+              "probability": 0.7394,
+              "fair_odds": 1.35
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.58,
+              "fair_odds": 1.72
+            },
+            {
+              "market": "BTTS Non",
+              "selection": "Au moins un clean sheet",
+              "probability": 0.5726,
+              "fair_odds": 1.75
+            }
+          ]
+        }
+      ],
+      "combo": {
+        "available": false,
+        "reason": "Pas assez de sélections au-dessus de 65% de confiance (2 disponibles, 4 requises)."
+      }
+    }
+  ]
 }
