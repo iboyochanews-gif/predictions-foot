@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-10T04:51:00Z",
-    "next_update_at": "2026-10-10T10:49:45Z",
+    "generated_at": "2026-10-10T12:04:47Z",
+    "next_update_at": "2026-10-10T18:03:45Z",
     "training": {
       "n_matches": 3754,
       "date_range": "2024-08-15 → 2026-09-20",
@@ -20,63 +20,8 @@
     {
       "date": "2026-10-10",
       "is_today": true,
-      "fixtures_count": 24,
+      "fixtures_count": 23,
       "fixtures": [
-        {
-          "home": "Arsenal",
-          "away": "Leeds",
-          "league": "E0",
-          "league_name": "Premier League",
-          "kickoff": "2026-10-10T11:30:00Z",
-          "xg": [
-            1.34,
-            0.63
-          ],
-          "best_pick": {
-            "market": "1X",
-            "selection": "Arsenal ou nul",
-            "probability": 0.8116,
-            "fair_odds": 1.23
-          },
-          "top_markets": [
-            {
-              "market": "1X",
-              "selection": "Arsenal ou nul",
-              "probability": 0.8116,
-              "fair_odds": 1.23
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7598,
-              "fair_odds": 1.32
-            },
-            {
-              "market": "-2.5",
-              "selection": "Moins de 3 buts",
-              "probability": 0.6826,
-              "fair_odds": 1.46
-            },
-            {
-              "market": "BTTS Non",
-              "selection": "Au moins un clean sheet",
-              "probability": 0.6462,
-              "fair_odds": 1.55
-            },
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.5946,
-              "fair_odds": 1.68
-            },
-            {
-              "market": "1",
-              "selection": "Victoire Arsenal",
-              "probability": 0.5714,
-              "fair_odds": 1.75
-            }
-          ]
-        },
         {
           "home": "Sunderland",
           "away": "Brighton",
