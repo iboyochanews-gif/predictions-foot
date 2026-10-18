@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-17T20:17:01Z",
-    "next_update_at": "2026-10-18T02:15:56Z",
+    "generated_at": "2026-10-18T03:32:19Z",
+    "next_update_at": "2026-10-18T09:31:15Z",
     "training": {
       "n_matches": 3801,
       "date_range": "2024-08-15 → 2026-10-12",
@@ -19,7 +19,7 @@
   "days": [
     {
       "date": "2026-10-18",
-      "is_today": false,
+      "is_today": true,
       "fixtures_count": 18,
       "fixtures": [
         {
@@ -1325,6 +1325,72 @@
             "xg": "0.99 – 1.03"
           }
         ]
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "is_today": false,
+      "fixtures_count": 1,
+      "fixtures": [
+        {
+          "home": "Levante",
+          "away": "Ath Bilbao",
+          "league": "SP1",
+          "league_name": "La Liga",
+          "kickoff": "2026-10-21T18:00:00Z",
+          "xg": [
+            1.52,
+            1.35
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.7873,
+            "fair_odds": 1.27
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.7873,
+              "fair_odds": 1.27
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7311,
+              "fair_odds": 1.37
+            },
+            {
+              "market": "1X",
+              "selection": "Levante ou nul",
+              "probability": 0.6727,
+              "fair_odds": 1.49
+            },
+            {
+              "market": "X2",
+              "selection": "Ath Bilbao ou nul",
+              "probability": 0.5961,
+              "fair_odds": 1.68
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.5855,
+              "fair_odds": 1.71
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.5465,
+              "fair_odds": 1.83
+            }
+          ]
+        }
+      ],
+      "combo": {
+        "available": false,
+        "reason": "Pas assez de sélections au-dessus de 65% de confiance (1 disponibles, 4 requises)."
       }
     }
   ]
