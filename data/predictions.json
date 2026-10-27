@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-27T11:45:55Z",
-    "next_update_at": "2026-10-27T17:44:53Z",
+    "generated_at": "2026-10-27T17:38:56Z",
+    "next_update_at": "2026-10-27T23:37:53Z",
     "training": {
       "n_matches": 3898,
       "date_range": "2024-08-15 → 2026-10-26",
@@ -20,63 +20,8 @@
     {
       "date": "2026-10-27",
       "is_today": true,
-      "fixtures_count": 3,
+      "fixtures_count": 2,
       "fixtures": [
-        {
-          "home": "Sassuolo",
-          "away": "Lazio",
-          "league": "I1",
-          "league_name": "Serie A",
-          "kickoff": "2026-10-27T17:30:00Z",
-          "xg": [
-            1.11,
-            1.47
-          ],
-          "best_pick": {
-            "market": "+1.5",
-            "selection": "2 buts ou plus",
-            "probability": 0.7367,
-            "fair_odds": 1.36
-          },
-          "top_markets": [
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.7367,
-              "fair_odds": 1.36
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7229,
-              "fair_odds": 1.38
-            },
-            {
-              "market": "X2",
-              "selection": "Lazio ou nul",
-              "probability": 0.7119,
-              "fair_odds": 1.4
-            },
-            {
-              "market": "1X",
-              "selection": "Sassuolo ou nul",
-              "probability": 0.5652,
-              "fair_odds": 1.77
-            },
-            {
-              "market": "BTTS Oui",
-              "selection": "Les deux marquent",
-              "probability": 0.5243,
-              "fair_odds": 1.91
-            },
-            {
-              "market": "-2.5",
-              "selection": "Moins de 3 buts",
-              "probability": 0.5228,
-              "fair_odds": 1.91
-            }
-          ]
-        },
         {
           "home": "Roma",
           "away": "Cagliari",
@@ -190,7 +135,7 @@
       ],
       "combo": {
         "available": false,
-        "reason": "Pas assez de sélections au-dessus de 65% de confiance (3 disponibles, 4 requises)."
+        "reason": "Pas assez de sélections au-dessus de 65% de confiance (2 disponibles, 4 requises)."
       }
     },
     {
@@ -642,7 +587,7 @@
     {
       "date": "2026-10-30",
       "is_today": false,
-      "fixtures_count": 3,
+      "fixtures_count": 4,
       "fixtures": [
         {
           "home": "Villarreal",
@@ -808,11 +753,105 @@
               "fair_odds": 1.86
             }
           ]
+        },
+        {
+          "home": "Nice",
+          "away": "Rennes",
+          "league": "F1",
+          "league_name": "Ligue 1",
+          "kickoff": "2026-10-30T18:00:00Z",
+          "xg": [
+            1.32,
+            1.74
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.8161,
+            "fair_odds": 1.23
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.8161,
+              "fair_odds": 1.23
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7445,
+              "fair_odds": 1.34
+            },
+            {
+              "market": "X2",
+              "selection": "Rennes ou nul",
+              "probability": 0.6869,
+              "fair_odds": 1.46
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.6111,
+              "fair_odds": 1.64
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.59,
+              "fair_odds": 1.69
+            },
+            {
+              "market": "1X",
+              "selection": "Nice ou nul",
+              "probability": 0.5685,
+              "fair_odds": 1.76
+            }
+          ]
         }
       ],
       "combo": {
-        "available": false,
-        "reason": "Pas assez de sélections au-dessus de 65% de confiance (3 disponibles, 4 requises)."
+        "available": true,
+        "joint_probability": 0.5377,
+        "fair_combined_odds": 1.86,
+        "picks": [
+          {
+            "match": "Elversberg vs Mainz",
+            "league_name": "Bundesliga",
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.9307,
+            "fair_odds": 1.07,
+            "xg": "2.32 – 1.97"
+          },
+          {
+            "match": "Le Havre vs Paris SG",
+            "league_name": "Ligue 1",
+            "market": "X2",
+            "selection": "Paris SG ou nul",
+            "probability": 0.8567,
+            "fair_odds": 1.17,
+            "xg": "0.73 – 2.13"
+          },
+          {
+            "match": "Villarreal vs Espanol",
+            "league_name": "La Liga",
+            "market": "1X",
+            "selection": "Villarreal ou nul",
+            "probability": 0.8262,
+            "fair_odds": 1.21,
+            "xg": "1.85 – 0.84"
+          },
+          {
+            "match": "Nice vs Rennes",
+            "league_name": "Ligue 1",
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.8161,
+            "fair_odds": 1.23,
+            "xg": "1.32 – 1.74"
+          }
+        ]
       }
     }
   ]
