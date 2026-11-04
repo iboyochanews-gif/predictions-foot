@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-04T13:56:17Z",
-    "next_update_at": "2026-11-04T19:55:08Z",
+    "generated_at": "2026-11-04T23:20:19Z",
+    "next_update_at": "2026-11-05T05:19:08Z",
     "training": {
       "n_matches": 3956,
       "date_range": "2024-08-15 → 2026-11-02",
@@ -1122,7 +1122,7 @@
           "away": "Paris FC",
           "league": "F1",
           "league_name": "Ligue 1",
-          "kickoff": "2026-11-07T16:15:00Z",
+          "kickoff": "2026-11-07T18:00:00Z",
           "xg": [
             1.17,
             1.91
@@ -1177,7 +1177,7 @@
           "away": "Troyes",
           "league": "F1",
           "league_name": "Ligue 1",
-          "kickoff": "2026-11-07T19:45:00Z",
+          "kickoff": "2026-11-07T20:05:00Z",
           "xg": [
             3.16,
             0.43
