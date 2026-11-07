@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-07T05:02:50Z",
-    "next_update_at": "2026-11-07T11:01:49Z",
+    "generated_at": "2026-11-07T12:38:15Z",
+    "next_update_at": "2026-11-07T18:37:13Z",
     "training": {
       "n_matches": 3956,
       "date_range": "2024-08-15 → 2026-11-02",
@@ -20,63 +20,8 @@
     {
       "date": "2026-11-07",
       "is_today": true,
-      "fixtures_count": 16,
+      "fixtures_count": 15,
       "fixtures": [
-        {
-          "home": "Leeds",
-          "away": "Tottenham",
-          "league": "E0",
-          "league_name": "Premier League",
-          "kickoff": "2026-11-07T12:30:00Z",
-          "xg": [
-            1.19,
-            0.8
-          ],
-          "best_pick": {
-            "market": "1X",
-            "selection": "Leeds ou nul",
-            "probability": 0.7336,
-            "fair_odds": 1.36
-          },
-          "top_markets": [
-            {
-              "market": "1X",
-              "selection": "Leeds ou nul",
-              "probability": 0.7336,
-              "fair_odds": 1.36
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7184,
-              "fair_odds": 1.39
-            },
-            {
-              "market": "-2.5",
-              "selection": "Moins de 3 buts",
-              "probability": 0.6814,
-              "fair_odds": 1.47
-            },
-            {
-              "market": "BTTS Non",
-              "selection": "Au moins un clean sheet",
-              "probability": 0.6134,
-              "fair_odds": 1.63
-            },
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.5943,
-              "fair_odds": 1.68
-            },
-            {
-              "market": "X2",
-              "selection": "Tottenham ou nul",
-              "probability": 0.548,
-              "fair_odds": 1.82
-            }
-          ]
-        },
         {
           "home": "Fulham",
           "away": "Newcastle",
