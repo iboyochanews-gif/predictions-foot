@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-16T15:06:52Z",
-    "next_update_at": "2026-11-16T21:05:47Z",
+    "generated_at": "2026-11-17T01:43:01Z",
+    "next_update_at": "2026-11-17T07:41:53Z",
     "training": {
       "n_matches": 4004,
       "date_range": "2024-08-15 → 2026-11-08",
@@ -16,5 +16,182 @@
     },
     "status": "ok"
   },
-  "days": []
+  "days": [
+    {
+      "date": "2026-11-20",
+      "is_today": false,
+      "fixtures_count": 3,
+      "fixtures": [
+        {
+          "home": "Ath Bilbao",
+          "away": "Espanol",
+          "league": "SP1",
+          "league_name": "La Liga",
+          "kickoff": "2026-11-20T20:00:00Z",
+          "xg": [
+            1.31,
+            0.77
+          ],
+          "best_pick": {
+            "market": "1X",
+            "selection": "Ath Bilbao ou nul",
+            "probability": 0.7657,
+            "fair_odds": 1.31
+          },
+          "top_markets": [
+            {
+              "market": "1X",
+              "selection": "Ath Bilbao ou nul",
+              "probability": 0.7657,
+              "fair_odds": 1.31
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7345,
+              "fair_odds": 1.36
+            },
+            {
+              "market": "-2.5",
+              "selection": "Moins de 3 buts",
+              "probability": 0.6537,
+              "fair_odds": 1.53
+            },
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.6205,
+              "fair_odds": 1.61
+            },
+            {
+              "market": "BTTS Non",
+              "selection": "Au moins un clean sheet",
+              "probability": 0.6022,
+              "fair_odds": 1.66
+            },
+            {
+              "market": "1",
+              "selection": "Victoire Ath Bilbao",
+              "probability": 0.5002,
+              "fair_odds": 2.0
+            }
+          ]
+        },
+        {
+          "home": "Bayern Munich",
+          "away": "FC Koln",
+          "league": "D1",
+          "league_name": "Bundesliga",
+          "kickoff": "2026-11-20T19:30:00Z",
+          "xg": [
+            4.21,
+            0.68
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.9553,
+            "fair_odds": 1.05
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.9553,
+              "fair_odds": 1.05
+            },
+            {
+              "market": "1X",
+              "selection": "Bayern Munich ou nul",
+              "probability": 0.94,
+              "fair_odds": 1.06
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.9095,
+              "fair_odds": 1.1
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.8623,
+              "fair_odds": 1.16
+            },
+            {
+              "market": "1",
+              "selection": "Victoire Bayern Munich",
+              "probability": 0.8495,
+              "fair_odds": 1.18
+            },
+            {
+              "market": "BTTS Non",
+              "selection": "Au moins un clean sheet",
+              "probability": 0.5126,
+              "fair_odds": 1.95
+            }
+          ]
+        },
+        {
+          "home": "Troyes",
+          "away": "Le Havre",
+          "league": "F1",
+          "league_name": "Ligue 1",
+          "kickoff": "2026-11-20T19:45:00Z",
+          "xg": [
+            1.06,
+            0.94
+          ],
+          "best_pick": {
+            "market": "12",
+            "selection": "Pas de nul",
+            "probability": 0.7303,
+            "fair_odds": 1.37
+          },
+          "top_markets": [
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7303,
+              "fair_odds": 1.37
+            },
+            {
+              "market": "1X",
+              "selection": "Troyes ou nul",
+              "probability": 0.7162,
+              "fair_odds": 1.4
+            },
+            {
+              "market": "-2.5",
+              "selection": "Moins de 3 buts",
+              "probability": 0.6746,
+              "fair_odds": 1.48
+            },
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.6003,
+              "fair_odds": 1.67
+            },
+            {
+              "market": "BTTS Non",
+              "selection": "Au moins un clean sheet",
+              "probability": 0.5957,
+              "fair_odds": 1.68
+            },
+            {
+              "market": "X2",
+              "selection": "Le Havre ou nul",
+              "probability": 0.5536,
+              "fair_odds": 1.81
+            }
+          ]
+        }
+      ],
+      "combo": {
+        "available": false,
+        "reason": "Pas assez de sélections au-dessus de 65% de confiance (3 disponibles, 4 requises)."
+      }
+    }
+  ]
 }
