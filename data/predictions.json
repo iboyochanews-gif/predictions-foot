@@ -1,18 +1,18 @@
 {
   "meta": {
-    "generated_at": "2026-11-17T01:43:01Z",
-    "next_update_at": "2026-11-17T07:41:53Z",
+    "generated_at": "2026-11-17T15:41:57Z",
+    "next_update_at": "2026-11-17T21:38:24Z",
     "training": {
-      "n_matches": 4004,
+      "n_matches": 3698,
       "date_range": "2024-08-15 → 2026-11-08",
-      "n_teams": 121
+      "n_teams": 119
     },
     "model": "Dixon-Coles + Elo + Forme récente (ensemble pondéré)",
     "params": {
       "min_confidence": 0.65,
       "combo_size": 4,
-      "dixon_coles_home_adv": 0.244,
-      "dixon_coles_rho": -0.032
+      "dixon_coles_home_adv": 0.245,
+      "dixon_coles_rho": -0.031
     },
     "status": "ok"
   },
@@ -35,44 +35,44 @@
           "best_pick": {
             "market": "1X",
             "selection": "Ath Bilbao ou nul",
-            "probability": 0.7657,
+            "probability": 0.766,
             "fair_odds": 1.31
           },
           "top_markets": [
             {
               "market": "1X",
               "selection": "Ath Bilbao ou nul",
-              "probability": 0.7657,
+              "probability": 0.766,
               "fair_odds": 1.31
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7345,
+              "probability": 0.7348,
               "fair_odds": 1.36
             },
             {
               "market": "-2.5",
               "selection": "Moins de 3 buts",
-              "probability": 0.6537,
+              "probability": 0.6539,
               "fair_odds": 1.53
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.6205,
+              "probability": 0.6202,
               "fair_odds": 1.61
             },
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.6022,
+              "probability": 0.6028,
               "fair_odds": 1.66
             },
             {
               "market": "1",
               "selection": "Victoire Ath Bilbao",
-              "probability": 0.5002,
+              "probability": 0.5007,
               "fair_odds": 2.0
             }
           ]
@@ -84,50 +84,50 @@
           "league_name": "Bundesliga",
           "kickoff": "2026-11-20T19:30:00Z",
           "xg": [
-            4.21,
+            4.25,
             0.68
           ],
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.9553,
+            "probability": 0.9565,
             "fair_odds": 1.05
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.9553,
+              "probability": 0.9565,
               "fair_odds": 1.05
             },
             {
               "market": "1X",
               "selection": "Bayern Munich ou nul",
-              "probability": 0.94,
-              "fair_odds": 1.06
+              "probability": 0.9355,
+              "fair_odds": 1.07
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.9095,
+              "probability": 0.9103,
               "fair_odds": 1.1
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.8623,
+              "probability": 0.8652,
               "fair_odds": 1.16
             },
             {
               "market": "1",
               "selection": "Victoire Bayern Munich",
-              "probability": 0.8495,
+              "probability": 0.8458,
               "fair_odds": 1.18
             },
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.5126,
+              "probability": 0.5137,
               "fair_odds": 1.95
             }
           ]
@@ -139,50 +139,50 @@
           "league_name": "Ligue 1",
           "kickoff": "2026-11-20T19:45:00Z",
           "xg": [
-            1.06,
+            1.07,
             0.94
           ],
           "best_pick": {
             "market": "12",
             "selection": "Pas de nul",
-            "probability": 0.7303,
+            "probability": 0.7305,
             "fair_odds": 1.37
           },
           "top_markets": [
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7303,
+              "probability": 0.7305,
               "fair_odds": 1.37
             },
             {
               "market": "1X",
               "selection": "Troyes ou nul",
-              "probability": 0.7162,
+              "probability": 0.7166,
               "fair_odds": 1.4
             },
             {
               "market": "-2.5",
               "selection": "Moins de 3 buts",
-              "probability": 0.6746,
+              "probability": 0.6743,
               "fair_odds": 1.48
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.6003,
+              "probability": 0.6005,
               "fair_odds": 1.67
             },
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.5957,
+              "probability": 0.5956,
               "fair_odds": 1.68
             },
             {
               "market": "X2",
               "selection": "Le Havre ou nul",
-              "probability": 0.5536,
+              "probability": 0.5529,
               "fair_odds": 1.81
             }
           ]
