@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-19T20:06:45Z",
-    "next_update_at": "2026-11-20T02:05:47Z",
+    "generated_at": "2026-11-20T06:10:21Z",
+    "next_update_at": "2026-11-20T12:09:22Z",
     "training": {
       "n_matches": 4004,
       "date_range": "2024-08-15 → 2026-11-08",
@@ -19,7 +19,7 @@
   "days": [
     {
       "date": "2026-11-20",
-      "is_today": false,
+      "is_today": true,
       "fixtures_count": 3,
       "fixtures": [
         {
@@ -2381,6 +2381,182 @@
             "xg": "2.79 – 0.97"
           }
         ]
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "is_today": false,
+      "fixtures_count": 3,
+      "fixtures": [
+        {
+          "home": "Brentford",
+          "away": "Everton",
+          "league": "E0",
+          "league_name": "Premier League",
+          "kickoff": "2026-11-23T20:00:00Z",
+          "xg": [
+            1.54,
+            0.9
+          ],
+          "best_pick": {
+            "market": "1X",
+            "selection": "Brentford ou nul",
+            "probability": 0.7547,
+            "fair_odds": 1.32
+          },
+          "top_markets": [
+            {
+              "market": "1X",
+              "selection": "Brentford ou nul",
+              "probability": 0.7547,
+              "fair_odds": 1.32
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7427,
+              "fair_odds": 1.35
+            },
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.7054,
+              "fair_odds": 1.42
+            },
+            {
+              "market": "-2.5",
+              "selection": "Moins de 3 buts",
+              "probability": 0.5576,
+              "fair_odds": 1.79
+            },
+            {
+              "market": "BTTS Non",
+              "selection": "Au moins un clean sheet",
+              "probability": 0.5283,
+              "fair_odds": 1.89
+            },
+            {
+              "market": "X2",
+              "selection": "Everton ou nul",
+              "probability": 0.5026,
+              "fair_odds": 1.99
+            }
+          ]
+        },
+        {
+          "home": "Levante",
+          "away": "Elche",
+          "league": "SP1",
+          "league_name": "La Liga",
+          "kickoff": "2026-11-23T20:00:00Z",
+          "xg": [
+            1.65,
+            1.24
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.787,
+            "fair_odds": 1.27
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.787,
+              "fair_odds": 1.27
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7456,
+              "fair_odds": 1.34
+            },
+            {
+              "market": "1X",
+              "selection": "Levante ou nul",
+              "probability": 0.7105,
+              "fair_odds": 1.41
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.5775,
+              "fair_odds": 1.73
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.5511,
+              "fair_odds": 1.81
+            },
+            {
+              "market": "X2",
+              "selection": "Elche ou nul",
+              "probability": 0.5439,
+              "fair_odds": 1.84
+            }
+          ]
+        },
+        {
+          "home": "Monza",
+          "away": "Fiorentina",
+          "league": "I1",
+          "league_name": "Serie A",
+          "kickoff": "2026-11-23T19:45:00Z",
+          "xg": [
+            1.96,
+            2.04
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.9104,
+            "fair_odds": 1.1
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.9104,
+              "fair_odds": 1.1
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7779,
+              "fair_odds": 1.29
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.7611,
+              "fair_odds": 1.31
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.7491,
+              "fair_odds": 1.33
+            },
+            {
+              "market": "X2",
+              "selection": "Fiorentina ou nul",
+              "probability": 0.6418,
+              "fair_odds": 1.56
+            },
+            {
+              "market": "1X",
+              "selection": "Monza ou nul",
+              "probability": 0.5804,
+              "fair_odds": 1.72
+            }
+          ]
+        }
+      ],
+      "combo": {
+        "available": false,
+        "reason": "Pas assez de sélections au-dessus de 65% de confiance (3 disponibles, 4 requises)."
       }
     }
   ]
