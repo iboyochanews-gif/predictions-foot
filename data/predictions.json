@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-20T06:10:21Z",
-    "next_update_at": "2026-11-20T12:09:22Z",
+    "generated_at": "2026-11-20T19:43:20Z",
+    "next_update_at": "2026-11-21T01:42:14Z",
     "training": {
       "n_matches": 4004,
       "date_range": "2024-08-15 → 2026-11-08",
@@ -20,7 +20,7 @@
     {
       "date": "2026-11-20",
       "is_today": true,
-      "fixtures_count": 3,
+      "fixtures_count": 2,
       "fixtures": [
         {
           "home": "Ath Bilbao",
@@ -74,61 +74,6 @@
               "selection": "Victoire Ath Bilbao",
               "probability": 0.5002,
               "fair_odds": 2.0
-            }
-          ]
-        },
-        {
-          "home": "Bayern Munich",
-          "away": "FC Koln",
-          "league": "D1",
-          "league_name": "Bundesliga",
-          "kickoff": "2026-11-20T19:30:00Z",
-          "xg": [
-            4.21,
-            0.68
-          ],
-          "best_pick": {
-            "market": "+1.5",
-            "selection": "2 buts ou plus",
-            "probability": 0.9553,
-            "fair_odds": 1.05
-          },
-          "top_markets": [
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.9553,
-              "fair_odds": 1.05
-            },
-            {
-              "market": "1X",
-              "selection": "Bayern Munich ou nul",
-              "probability": 0.94,
-              "fair_odds": 1.06
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.9095,
-              "fair_odds": 1.1
-            },
-            {
-              "market": "+2.5",
-              "selection": "3 buts ou plus",
-              "probability": 0.8623,
-              "fair_odds": 1.16
-            },
-            {
-              "market": "1",
-              "selection": "Victoire Bayern Munich",
-              "probability": 0.8495,
-              "fair_odds": 1.18
-            },
-            {
-              "market": "BTTS Non",
-              "selection": "Au moins un clean sheet",
-              "probability": 0.5126,
-              "fair_odds": 1.95
             }
           ]
         },
@@ -190,7 +135,7 @@
       ],
       "combo": {
         "available": false,
-        "reason": "Pas assez de sélections au-dessus de 65% de confiance (3 disponibles, 4 requises)."
+        "reason": "Pas assez de sélections au-dessus de 65% de confiance (2 disponibles, 4 requises)."
       }
     },
     {
