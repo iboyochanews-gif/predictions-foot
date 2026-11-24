@@ -1,20 +1,291 @@
 {
   "meta": {
-    "generated_at": "2026-11-23T23:32:12Z",
-    "next_update_at": "2026-11-24T05:31:12Z",
+    "generated_at": "2026-11-24T08:53:51Z",
+    "next_update_at": "2026-11-24T14:52:51Z",
     "training": {
-      "n_matches": 4049,
-      "date_range": "2024-08-15 → 2026-11-22",
+      "n_matches": 4052,
+      "date_range": "2024-08-15 → 2026-11-23",
       "n_teams": 121
     },
     "model": "Dixon-Coles + Elo + Forme récente (ensemble pondéré)",
     "params": {
       "min_confidence": 0.65,
       "combo_size": 4,
-      "dixon_coles_home_adv": 0.244,
-      "dixon_coles_rho": -0.023
+      "dixon_coles_home_adv": 0.25,
+      "dixon_coles_rho": -0.025
     },
     "status": "ok"
   },
-  "days": []
+  "days": [
+    {
+      "date": "2026-11-27",
+      "is_today": false,
+      "fixtures_count": 4,
+      "fixtures": [
+        {
+          "home": "Nott'm Forest",
+          "away": "Chelsea",
+          "league": "E0",
+          "league_name": "Premier League",
+          "kickoff": "2026-11-27T20:00:00Z",
+          "xg": [
+            1.57,
+            1.36
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.7925,
+            "fair_odds": 1.26
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.7925,
+              "fair_odds": 1.26
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7397,
+              "fair_odds": 1.35
+            },
+            {
+              "market": "1X",
+              "selection": "Nott'm Forest ou nul",
+              "probability": 0.6788,
+              "fair_odds": 1.47
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.5909,
+              "fair_odds": 1.69
+            },
+            {
+              "market": "X2",
+              "selection": "Chelsea ou nul",
+              "probability": 0.5815,
+              "fair_odds": 1.72
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.5603,
+              "fair_odds": 1.78
+            }
+          ]
+        },
+        {
+          "home": "Venezia",
+          "away": "Bologna",
+          "league": "I1",
+          "league_name": "Serie A",
+          "kickoff": "2026-11-27T19:45:00Z",
+          "xg": [
+            0.7,
+            1.5
+          ],
+          "best_pick": {
+            "market": "X2",
+            "selection": "Bologna ou nul",
+            "probability": 0.7899,
+            "fair_odds": 1.27
+          },
+          "top_markets": [
+            {
+              "market": "X2",
+              "selection": "Bologna ou nul",
+              "probability": 0.7899,
+              "fair_odds": 1.27
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.744,
+              "fair_odds": 1.34
+            },
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.6467,
+              "fair_odds": 1.55
+            },
+            {
+              "market": "-2.5",
+              "selection": "Moins de 3 buts",
+              "probability": 0.6244,
+              "fair_odds": 1.6
+            },
+            {
+              "market": "BTTS Non",
+              "selection": "Au moins un clean sheet",
+              "probability": 0.6079,
+              "fair_odds": 1.65
+            },
+            {
+              "market": "2",
+              "selection": "Victoire Bologna",
+              "probability": 0.534,
+              "fair_odds": 1.87
+            }
+          ]
+        },
+        {
+          "home": "Werder Bremen",
+          "away": "M'gladbach",
+          "league": "D1",
+          "league_name": "Bundesliga",
+          "kickoff": "2026-11-27T19:30:00Z",
+          "xg": [
+            2.34,
+            1.01
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.8499,
+            "fair_odds": 1.18
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.8499,
+              "fair_odds": 1.18
+            },
+            {
+              "market": "1X",
+              "selection": "Werder Bremen ou nul",
+              "probability": 0.8175,
+              "fair_odds": 1.22
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.8071,
+              "fair_odds": 1.24
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.6513,
+              "fair_odds": 1.54
+            },
+            {
+              "market": "1",
+              "selection": "Victoire Werder Bremen",
+              "probability": 0.6246,
+              "fair_odds": 1.6
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.5771,
+              "fair_odds": 1.73
+            }
+          ]
+        },
+        {
+          "home": "Brest",
+          "away": "Paris FC",
+          "league": "F1",
+          "league_name": "Ligue 1",
+          "kickoff": "2026-11-27T19:45:00Z",
+          "xg": [
+            1.29,
+            1.35
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.7432,
+            "fair_odds": 1.35
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.7432,
+              "fair_odds": 1.35
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7257,
+              "fair_odds": 1.38
+            },
+            {
+              "market": "X2",
+              "selection": "Paris FC ou nul",
+              "probability": 0.6394,
+              "fair_odds": 1.56
+            },
+            {
+              "market": "1X",
+              "selection": "Brest ou nul",
+              "probability": 0.6349,
+              "fair_odds": 1.58
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.5398,
+              "fair_odds": 1.85
+            },
+            {
+              "market": "-2.5",
+              "selection": "Moins de 3 buts",
+              "probability": 0.5085,
+              "fair_odds": 1.97
+            }
+          ]
+        }
+      ],
+      "combo": {
+        "available": true,
+        "joint_probability": 0.3954,
+        "fair_combined_odds": 2.55,
+        "picks": [
+          {
+            "match": "Werder Bremen vs M'gladbach",
+            "league_name": "Bundesliga",
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.8499,
+            "fair_odds": 1.18,
+            "xg": "2.34 – 1.01"
+          },
+          {
+            "match": "Nott'm Forest vs Chelsea",
+            "league_name": "Premier League",
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.7925,
+            "fair_odds": 1.26,
+            "xg": "1.57 – 1.36"
+          },
+          {
+            "match": "Venezia vs Bologna",
+            "league_name": "Serie A",
+            "market": "X2",
+            "selection": "Bologna ou nul",
+            "probability": 0.7899,
+            "fair_odds": 1.27,
+            "xg": "0.70 – 1.50"
+          },
+          {
+            "match": "Brest vs Paris FC",
+            "league_name": "Ligue 1",
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.7432,
+            "fair_odds": 1.35,
+            "xg": "1.29 – 1.35"
+          }
+        ]
+      }
+    }
+  ]
 }
