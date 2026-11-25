@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-24T22:01:15Z",
-    "next_update_at": "2026-11-25T04:00:12Z",
+    "generated_at": "2026-11-25T07:29:20Z",
+    "next_update_at": "2026-11-25T13:28:10Z",
     "training": {
       "n_matches": 4052,
       "date_range": "2024-08-15 → 2026-11-23",
@@ -12,7 +12,7 @@
       "min_confidence": 0.65,
       "combo_size": 4,
       "dixon_coles_home_adv": 0.25,
-      "dixon_coles_rho": -0.024
+      "dixon_coles_rho": -0.025
     },
     "status": "ok"
   },
@@ -30,25 +30,25 @@
           "kickoff": "2026-11-27T20:00:00Z",
           "xg": [
             1.57,
-            1.35
+            1.36
           ],
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.7918,
+            "probability": 0.7925,
             "fair_odds": 1.26
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.7918,
+              "probability": 0.7925,
               "fair_odds": 1.26
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7396,
+              "probability": 0.7397,
               "fair_odds": 1.35
             },
             {
@@ -60,20 +60,20 @@
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.5901,
+              "probability": 0.5909,
               "fair_odds": 1.69
             },
             {
               "market": "X2",
               "selection": "Chelsea ou nul",
-              "probability": 0.5816,
+              "probability": 0.5815,
               "fair_odds": 1.72
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.5593,
-              "fair_odds": 1.79
+              "probability": 0.5603,
+              "fair_odds": 1.78
             }
           ]
         },
@@ -84,50 +84,50 @@
           "league_name": "Serie A",
           "kickoff": "2026-11-27T19:45:00Z",
           "xg": [
-            0.69,
+            0.7,
             1.5
           ],
           "best_pick": {
             "market": "X2",
             "selection": "Bologna ou nul",
-            "probability": 0.7906,
-            "fair_odds": 1.26
+            "probability": 0.7899,
+            "fair_odds": 1.27
           },
           "top_markets": [
             {
               "market": "X2",
               "selection": "Bologna ou nul",
-              "probability": 0.7906,
-              "fair_odds": 1.26
+              "probability": 0.7899,
+              "fair_odds": 1.27
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7444,
+              "probability": 0.744,
               "fair_odds": 1.34
             },
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.6469,
+              "probability": 0.6467,
               "fair_odds": 1.55
             },
             {
               "market": "-2.5",
               "selection": "Moins de 3 buts",
-              "probability": 0.6242,
+              "probability": 0.6244,
               "fair_odds": 1.6
             },
             {
               "market": "BTTS Non",
               "selection": "Au moins un clean sheet",
-              "probability": 0.6085,
-              "fair_odds": 1.64
+              "probability": 0.6079,
+              "fair_odds": 1.65
             },
             {
               "market": "2",
               "selection": "Victoire Bologna",
-              "probability": 0.535,
+              "probability": 0.534,
               "fair_odds": 1.87
             }
           ]
@@ -145,44 +145,44 @@
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.8493,
+            "probability": 0.8499,
             "fair_odds": 1.18
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.8493,
+              "probability": 0.8499,
               "fair_odds": 1.18
             },
             {
               "market": "1X",
               "selection": "Werder Bremen ou nul",
-              "probability": 0.8173,
+              "probability": 0.8175,
               "fair_odds": 1.22
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.8069,
+              "probability": 0.8071,
               "fair_odds": 1.24
             },
             {
               "market": "+2.5",
               "selection": "3 buts ou plus",
-              "probability": 0.6503,
+              "probability": 0.6513,
               "fair_odds": 1.54
             },
             {
               "market": "1",
               "selection": "Victoire Werder Bremen",
-              "probability": 0.6242,
+              "probability": 0.6246,
               "fair_odds": 1.6
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.5766,
+              "probability": 0.5771,
               "fair_odds": 1.73
             }
           ]
@@ -200,20 +200,20 @@
           "best_pick": {
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.7441,
-            "fair_odds": 1.34
+            "probability": 0.7432,
+            "fair_odds": 1.35
           },
           "top_markets": [
             {
               "market": "+1.5",
               "selection": "2 buts ou plus",
-              "probability": 0.7441,
-              "fair_odds": 1.34
+              "probability": 0.7432,
+              "fair_odds": 1.35
             },
             {
               "market": "12",
               "selection": "Pas de nul",
-              "probability": 0.7259,
+              "probability": 0.7257,
               "fair_odds": 1.38
             },
             {
@@ -225,19 +225,19 @@
             {
               "market": "1X",
               "selection": "Brest ou nul",
-              "probability": 0.6347,
+              "probability": 0.6349,
               "fair_odds": 1.58
             },
             {
               "market": "BTTS Oui",
               "selection": "Les deux marquent",
-              "probability": 0.5407,
+              "probability": 0.5398,
               "fair_odds": 1.85
             },
             {
               "market": "-2.5",
               "selection": "Moins de 3 buts",
-              "probability": 0.5074,
+              "probability": 0.5085,
               "fair_odds": 1.97
             }
           ]
@@ -245,15 +245,15 @@
       ],
       "combo": {
         "available": true,
-        "joint_probability": 0.3956,
-        "fair_combined_odds": 2.51,
+        "joint_probability": 0.3954,
+        "fair_combined_odds": 2.55,
         "picks": [
           {
             "match": "Werder Bremen vs M'gladbach",
             "league_name": "Bundesliga",
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.8493,
+            "probability": 0.8499,
             "fair_odds": 1.18,
             "xg": "2.34 – 1.01"
           },
@@ -262,27 +262,1122 @@
             "league_name": "Premier League",
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.7918,
+            "probability": 0.7925,
             "fair_odds": 1.26,
-            "xg": "1.57 – 1.35"
+            "xg": "1.57 – 1.36"
           },
           {
             "match": "Venezia vs Bologna",
             "league_name": "Serie A",
             "market": "X2",
             "selection": "Bologna ou nul",
-            "probability": 0.7906,
-            "fair_odds": 1.26,
-            "xg": "0.69 – 1.50"
+            "probability": 0.7899,
+            "fair_odds": 1.27,
+            "xg": "0.70 – 1.50"
           },
           {
             "match": "Brest vs Paris FC",
             "league_name": "Ligue 1",
             "market": "+1.5",
             "selection": "2 buts ou plus",
-            "probability": 0.7441,
-            "fair_odds": 1.34,
+            "probability": 0.7432,
+            "fair_odds": 1.35,
             "xg": "1.29 – 1.35"
+          }
+        ]
+      }
+    },
+    {
+      "date": "2026-11-28",
+      "is_today": false,
+      "fixtures_count": 19,
+      "fixtures": [
+        {
+          "home": "Leeds",
+          "away": "Coventry",
+          "league": "E0",
+          "league_name": "Premier League",
+          "kickoff": "2026-11-28T15:00:00Z",
+          "xg": [
+            2.26,
+            0.88
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.8224,
+            "fair_odds": 1.22
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.8224,
+              "fair_odds": 1.22
+            },
+            {
+              "market": "1X",
+              "selection": "Leeds ou nul",
+              "probability": 0.8207,
+              "fair_odds": 1.22
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.8048,
+              "fair_odds": 1.24
+            },
+            {
+              "market": "1",
+              "selection": "Victoire Leeds",
+              "probability": 0.6254,
+              "fair_odds": 1.6
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.6065,
+              "fair_odds": 1.65
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.5257,
+              "fair_odds": 1.9
+            }
+          ]
+        },
+        {
+          "home": "Man United",
+          "away": "Brentford",
+          "league": "E0",
+          "league_name": "Premier League",
+          "kickoff": "2026-11-28T15:00:00Z",
+          "xg": [
+            1.44,
+            1.96
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.856,
+            "fair_odds": 1.17
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.856,
+              "fair_odds": 1.17
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7509,
+              "fair_odds": 1.33
+            },
+            {
+              "market": "X2",
+              "selection": "Brentford ou nul",
+              "probability": 0.6844,
+              "fair_odds": 1.46
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.6612,
+              "fair_odds": 1.51
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.6587,
+              "fair_odds": 1.52
+            },
+            {
+              "market": "1X",
+              "selection": "Man United ou nul",
+              "probability": 0.5647,
+              "fair_odds": 1.77
+            }
+          ]
+        },
+        {
+          "home": "Ipswich",
+          "away": "Aston Villa",
+          "league": "E0",
+          "league_name": "Premier League",
+          "kickoff": "2026-11-28T17:30:00Z",
+          "xg": [
+            1.7,
+            2.07
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.8918,
+            "fair_odds": 1.12
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.8918,
+              "fair_odds": 1.12
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7877,
+              "fair_odds": 1.27
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.7257,
+              "fair_odds": 1.38
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.7156,
+              "fair_odds": 1.4
+            },
+            {
+              "market": "X2",
+              "selection": "Aston Villa ou nul",
+              "probability": 0.6949,
+              "fair_odds": 1.44
+            },
+            {
+              "market": "1X",
+              "selection": "Ipswich ou nul",
+              "probability": 0.5174,
+              "fair_odds": 1.93
+            }
+          ]
+        },
+        {
+          "home": "Betis",
+          "away": "Vallecano",
+          "league": "SP1",
+          "league_name": "La Liga",
+          "kickoff": "2026-11-28T13:00:00Z",
+          "xg": [
+            1.89,
+            0.9
+          ],
+          "best_pick": {
+            "market": "1X",
+            "selection": "Betis ou nul",
+            "probability": 0.8013,
+            "fair_odds": 1.25
+          },
+          "top_markets": [
+            {
+              "market": "1X",
+              "selection": "Betis ou nul",
+              "probability": 0.8013,
+              "fair_odds": 1.25
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7942,
+              "fair_odds": 1.26
+            },
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.7706,
+              "fair_odds": 1.3
+            },
+            {
+              "market": "1",
+              "selection": "Victoire Betis",
+              "probability": 0.5954,
+              "fair_odds": 1.68
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.5293,
+              "fair_odds": 1.89
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.5072,
+              "fair_odds": 1.97
+            }
+          ]
+        },
+        {
+          "home": "Malaga",
+          "away": "Ath Bilbao",
+          "league": "SP1",
+          "league_name": "La Liga",
+          "kickoff": "2026-11-28T15:15:00Z",
+          "xg": [
+            0.69,
+            1.41
+          ],
+          "best_pick": {
+            "market": "X2",
+            "selection": "Ath Bilbao ou nul",
+            "probability": 0.7547,
+            "fair_odds": 1.33
+          },
+          "top_markets": [
+            {
+              "market": "X2",
+              "selection": "Ath Bilbao ou nul",
+              "probability": 0.7547,
+              "fair_odds": 1.33
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7166,
+              "fair_odds": 1.4
+            },
+            {
+              "market": "-2.5",
+              "selection": "Moins de 3 buts",
+              "probability": 0.6495,
+              "fair_odds": 1.54
+            },
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.6235,
+              "fair_odds": 1.6
+            },
+            {
+              "market": "BTTS Non",
+              "selection": "Au moins un clean sheet",
+              "probability": 0.6213,
+              "fair_odds": 1.61
+            },
+            {
+              "market": "1X",
+              "selection": "Malaga ou nul",
+              "probability": 0.5287,
+              "fair_odds": 1.89
+            }
+          ]
+        },
+        {
+          "home": "Elche",
+          "away": "Ath Madrid",
+          "league": "SP1",
+          "league_name": "La Liga",
+          "kickoff": "2026-11-28T17:30:00Z",
+          "xg": [
+            0.91,
+            1.69
+          ],
+          "best_pick": {
+            "market": "X2",
+            "selection": "Ath Madrid ou nul",
+            "probability": 0.7633,
+            "fair_odds": 1.31
+          },
+          "top_markets": [
+            {
+              "market": "X2",
+              "selection": "Ath Madrid ou nul",
+              "probability": 0.7633,
+              "fair_odds": 1.31
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7619,
+              "fair_odds": 1.31
+            },
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.7354,
+              "fair_odds": 1.36
+            },
+            {
+              "market": "2",
+              "selection": "Victoire Ath Madrid",
+              "probability": 0.5252,
+              "fair_odds": 1.9
+            },
+            {
+              "market": "-2.5",
+              "selection": "Moins de 3 buts",
+              "probability": 0.5185,
+              "fair_odds": 1.93
+            },
+            {
+              "market": "BTTS Non",
+              "selection": "Au moins un clean sheet",
+              "probability": 0.5101,
+              "fair_odds": 1.96
+            }
+          ]
+        },
+        {
+          "home": "Real Madrid",
+          "away": "Alaves",
+          "league": "SP1",
+          "league_name": "La Liga",
+          "kickoff": "2026-11-28T20:00:00Z",
+          "xg": [
+            2.74,
+            0.67
+          ],
+          "best_pick": {
+            "market": "1X",
+            "selection": "Real Madrid ou nul",
+            "probability": 0.9091,
+            "fair_odds": 1.1
+          },
+          "top_markets": [
+            {
+              "market": "1X",
+              "selection": "Real Madrid ou nul",
+              "probability": 0.9091,
+              "fair_odds": 1.1
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.8651,
+              "fair_odds": 1.16
+            },
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.8558,
+              "fair_odds": 1.17
+            },
+            {
+              "market": "1",
+              "selection": "Victoire Real Madrid",
+              "probability": 0.7741,
+              "fair_odds": 1.29
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.6621,
+              "fair_odds": 1.51
+            },
+            {
+              "market": "BTTS Non",
+              "selection": "Au moins un clean sheet",
+              "probability": 0.54,
+              "fair_odds": 1.85
+            }
+          ]
+        },
+        {
+          "home": "Frosinone",
+          "away": "Parma",
+          "league": "I1",
+          "league_name": "Serie A",
+          "kickoff": "2026-11-28T14:00:00Z",
+          "xg": [
+            2.5,
+            1.02
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.868,
+            "fair_odds": 1.15
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.868,
+              "fair_odds": 1.15
+            },
+            {
+              "market": "1X",
+              "selection": "Frosinone ou nul",
+              "probability": 0.8254,
+              "fair_odds": 1.21
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.8253,
+              "fair_odds": 1.21
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.6826,
+              "fair_odds": 1.46
+            },
+            {
+              "market": "1",
+              "selection": "Victoire Frosinone",
+              "probability": 0.6507,
+              "fair_odds": 1.54
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.589,
+              "fair_odds": 1.7
+            }
+          ]
+        },
+        {
+          "home": "Torino",
+          "away": "Lazio",
+          "league": "I1",
+          "league_name": "Serie A",
+          "kickoff": "2026-11-28T17:00:00Z",
+          "xg": [
+            0.97,
+            1.7
+          ],
+          "best_pick": {
+            "market": "X2",
+            "selection": "Lazio ou nul",
+            "probability": 0.7623,
+            "fair_odds": 1.31
+          },
+          "top_markets": [
+            {
+              "market": "X2",
+              "selection": "Lazio ou nul",
+              "probability": 0.7623,
+              "fair_odds": 1.31
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7528,
+              "fair_odds": 1.33
+            },
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.7478,
+              "fair_odds": 1.34
+            },
+            {
+              "market": "2",
+              "selection": "Victoire Lazio",
+              "probability": 0.5151,
+              "fair_odds": 1.94
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.509,
+              "fair_odds": 1.96
+            },
+            {
+              "market": "-2.5",
+              "selection": "Moins de 3 buts",
+              "probability": 0.5021,
+              "fair_odds": 1.99
+            }
+          ]
+        },
+        {
+          "home": "Inter",
+          "away": "Genoa",
+          "league": "I1",
+          "league_name": "Serie A",
+          "kickoff": "2026-11-28T19:45:00Z",
+          "xg": [
+            2.47,
+            0.87
+          ],
+          "best_pick": {
+            "market": "1X",
+            "selection": "Inter ou nul",
+            "probability": 0.86,
+            "fair_odds": 1.16
+          },
+          "top_markets": [
+            {
+              "market": "1X",
+              "selection": "Inter ou nul",
+              "probability": 0.86,
+              "fair_odds": 1.16
+            },
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.848,
+              "fair_odds": 1.18
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.8358,
+              "fair_odds": 1.2
+            },
+            {
+              "market": "1",
+              "selection": "Victoire Inter",
+              "probability": 0.6959,
+              "fair_odds": 1.44
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.6483,
+              "fair_odds": 1.54
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.5342,
+              "fair_odds": 1.87
+            }
+          ]
+        },
+        {
+          "home": "FC Koln",
+          "away": "Elversberg",
+          "league": "D1",
+          "league_name": "Bundesliga",
+          "kickoff": "2026-11-28T14:30:00Z",
+          "xg": [
+            1.42,
+            1.47
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.7866,
+            "fair_odds": 1.27
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.7866,
+              "fair_odds": 1.27
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7349,
+              "fair_odds": 1.36
+            },
+            {
+              "market": "X2",
+              "selection": "Elversberg ou nul",
+              "probability": 0.6336,
+              "fair_odds": 1.58
+            },
+            {
+              "market": "1X",
+              "selection": "FC Koln ou nul",
+              "probability": 0.6315,
+              "fair_odds": 1.58
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.5867,
+              "fair_odds": 1.7
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.5516,
+              "fair_odds": 1.81
+            }
+          ]
+        },
+        {
+          "home": "Mainz",
+          "away": "Union Berlin",
+          "league": "D1",
+          "league_name": "Bundesliga",
+          "kickoff": "2026-11-28T14:30:00Z",
+          "xg": [
+            2.28,
+            1.12
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.8556,
+            "fair_odds": 1.17
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.8556,
+              "fair_odds": 1.17
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7942,
+              "fair_odds": 1.26
+            },
+            {
+              "market": "1X",
+              "selection": "Mainz ou nul",
+              "probability": 0.7879,
+              "fair_odds": 1.27
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.6609,
+              "fair_odds": 1.51
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.6075,
+              "fair_odds": 1.65
+            },
+            {
+              "market": "1",
+              "selection": "Victoire Mainz",
+              "probability": 0.5821,
+              "fair_odds": 1.72
+            }
+          ]
+        },
+        {
+          "home": "Paderborn",
+          "away": "Schalke 04",
+          "league": "D1",
+          "league_name": "Bundesliga",
+          "kickoff": "2026-11-28T14:30:00Z",
+          "xg": [
+            0.53,
+            0.38
+          ],
+          "best_pick": {
+            "market": "-2.5",
+            "selection": "Moins de 3 buts",
+            "probability": 0.9354,
+            "fair_odds": 1.07
+          },
+          "top_markets": [
+            {
+              "market": "-2.5",
+              "selection": "Moins de 3 buts",
+              "probability": 0.9354,
+              "fair_odds": 1.07
+            },
+            {
+              "market": "BTTS Non",
+              "selection": "Au moins un clean sheet",
+              "probability": 0.8681,
+              "fair_odds": 1.15
+            },
+            {
+              "market": "-1.5",
+              "selection": "Moins de 2 buts",
+              "probability": 0.7667,
+              "fair_odds": 1.3
+            },
+            {
+              "market": "1X",
+              "selection": "Paderborn ou nul",
+              "probability": 0.766,
+              "fair_odds": 1.31
+            },
+            {
+              "market": "X2",
+              "selection": "Schalke 04 ou nul",
+              "probability": 0.6307,
+              "fair_odds": 1.59
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.6034,
+              "fair_odds": 1.66
+            }
+          ]
+        },
+        {
+          "home": "Hamburg",
+          "away": "Bayern Munich",
+          "league": "D1",
+          "league_name": "Bundesliga",
+          "kickoff": "2026-11-28T14:30:00Z",
+          "xg": [
+            0.89,
+            3.46
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.9316,
+            "fair_odds": 1.07
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.9316,
+              "fair_odds": 1.07
+            },
+            {
+              "market": "X2",
+              "selection": "Bayern Munich ou nul",
+              "probability": 0.884,
+              "fair_odds": 1.13
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.8735,
+              "fair_odds": 1.14
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.8078,
+              "fair_odds": 1.24
+            },
+            {
+              "market": "2",
+              "selection": "Victoire Bayern Munich",
+              "probability": 0.7575,
+              "fair_odds": 1.32
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.5733,
+              "fair_odds": 1.74
+            }
+          ]
+        },
+        {
+          "home": "Stuttgart",
+          "away": "Ein Frankfurt",
+          "league": "D1",
+          "league_name": "Bundesliga",
+          "kickoff": "2026-11-28T17:30:00Z",
+          "xg": [
+            2.4,
+            1.23
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.8787,
+            "fair_odds": 1.14
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.8787,
+              "fair_odds": 1.14
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.8018,
+              "fair_odds": 1.25
+            },
+            {
+              "market": "1X",
+              "selection": "Stuttgart ou nul",
+              "probability": 0.7821,
+              "fair_odds": 1.28
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.7016,
+              "fair_odds": 1.43
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.6453,
+              "fair_odds": 1.55
+            },
+            {
+              "market": "1",
+              "selection": "Victoire Stuttgart",
+              "probability": 0.5839,
+              "fair_odds": 1.71
+            }
+          ]
+        },
+        {
+          "home": "Le Mans",
+          "away": "Lille",
+          "league": "F1",
+          "league_name": "Ligue 1",
+          "kickoff": "2026-11-28T19:45:00Z",
+          "xg": [
+            0.88,
+            1.28
+          ],
+          "best_pick": {
+            "market": "12",
+            "selection": "Pas de nul",
+            "probability": 0.7179,
+            "fair_odds": 1.39
+          },
+          "top_markets": [
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7179,
+              "fair_odds": 1.39
+            },
+            {
+              "market": "X2",
+              "selection": "Lille ou nul",
+              "probability": 0.7174,
+              "fair_odds": 1.39
+            },
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.6377,
+              "fair_odds": 1.57
+            },
+            {
+              "market": "-2.5",
+              "selection": "Moins de 3 buts",
+              "probability": 0.6346,
+              "fair_odds": 1.58
+            },
+            {
+              "market": "BTTS Non",
+              "selection": "Au moins un clean sheet",
+              "probability": 0.5757,
+              "fair_odds": 1.74
+            },
+            {
+              "market": "1X",
+              "selection": "Le Mans ou nul",
+              "probability": 0.5647,
+              "fair_odds": 1.77
+            }
+          ]
+        },
+        {
+          "home": "Nice",
+          "away": "Troyes",
+          "league": "F1",
+          "league_name": "Ligue 1",
+          "kickoff": "2026-11-28T19:45:00Z",
+          "xg": [
+            1.71,
+            0.83
+          ],
+          "best_pick": {
+            "market": "1X",
+            "selection": "Nice ou nul",
+            "probability": 0.7841,
+            "fair_odds": 1.28
+          },
+          "top_markets": [
+            {
+              "market": "1X",
+              "selection": "Nice ou nul",
+              "probability": 0.7841,
+              "fair_odds": 1.28
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7577,
+              "fair_odds": 1.32
+            },
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.7236,
+              "fair_odds": 1.38
+            },
+            {
+              "market": "1",
+              "selection": "Victoire Nice",
+              "probability": 0.5418,
+              "fair_odds": 1.85
+            },
+            {
+              "market": "BTTS Non",
+              "selection": "Au moins un clean sheet",
+              "probability": 0.5354,
+              "fair_odds": 1.87
+            },
+            {
+              "market": "-2.5",
+              "selection": "Moins de 3 buts",
+              "probability": 0.5336,
+              "fair_odds": 1.87
+            }
+          ]
+        },
+        {
+          "home": "Le Havre",
+          "away": "Strasbourg",
+          "league": "F1",
+          "league_name": "Ligue 1",
+          "kickoff": "2026-11-28T19:45:00Z",
+          "xg": [
+            1.39,
+            2.13
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.868,
+            "fair_odds": 1.15
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.868,
+              "fair_odds": 1.15
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.7711,
+              "fair_odds": 1.3
+            },
+            {
+              "market": "X2",
+              "selection": "Strasbourg ou nul",
+              "probability": 0.7269,
+              "fair_odds": 1.38
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.6821,
+              "fair_odds": 1.47
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.6634,
+              "fair_odds": 1.51
+            },
+            {
+              "market": "1X",
+              "selection": "Le Havre ou nul",
+              "probability": 0.502,
+              "fair_odds": 1.99
+            }
+          ]
+        },
+        {
+          "home": "Paris SG",
+          "away": "Lorient",
+          "league": "F1",
+          "league_name": "Ligue 1",
+          "kickoff": "2026-11-28T19:45:00Z",
+          "xg": [
+            1.82,
+            0.62
+          ],
+          "best_pick": {
+            "market": "1X",
+            "selection": "Paris SG ou nul",
+            "probability": 0.8639,
+            "fair_odds": 1.16
+          },
+          "top_markets": [
+            {
+              "market": "1X",
+              "selection": "Paris SG ou nul",
+              "probability": 0.8639,
+              "fair_odds": 1.16
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.8086,
+              "fair_odds": 1.24
+            },
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.7013,
+              "fair_odds": 1.43
+            },
+            {
+              "market": "1",
+              "selection": "Victoire Paris SG",
+              "probability": 0.6725,
+              "fair_odds": 1.49
+            },
+            {
+              "market": "BTTS Non",
+              "selection": "Au moins un clean sheet",
+              "probability": 0.6127,
+              "fair_odds": 1.63
+            },
+            {
+              "market": "-2.5",
+              "selection": "Moins de 3 buts",
+              "probability": 0.5608,
+              "fair_odds": 1.78
+            }
+          ]
+        }
+      ],
+      "combo": {
+        "available": true,
+        "joint_probability": 0.7065,
+        "fair_combined_odds": 1.41,
+        "picks": [
+          {
+            "match": "Paderborn vs Schalke 04",
+            "league_name": "Bundesliga",
+            "market": "-2.5",
+            "selection": "Moins de 3 buts",
+            "probability": 0.9354,
+            "fair_odds": 1.07,
+            "xg": "0.53 – 0.38"
+          },
+          {
+            "match": "Hamburg vs Bayern Munich",
+            "league_name": "Bundesliga",
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.9316,
+            "fair_odds": 1.07,
+            "xg": "0.89 – 3.46"
+          },
+          {
+            "match": "Real Madrid vs Alaves",
+            "league_name": "La Liga",
+            "market": "1X",
+            "selection": "Real Madrid ou nul",
+            "probability": 0.9091,
+            "fair_odds": 1.1,
+            "xg": "2.74 – 0.67"
+          },
+          {
+            "match": "Ipswich vs Aston Villa",
+            "league_name": "Premier League",
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.8918,
+            "fair_odds": 1.12,
+            "xg": "1.70 – 2.07"
           }
         ]
       }
