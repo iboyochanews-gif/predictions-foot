@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-27T20:49:47Z",
-    "next_update_at": "2026-11-28T02:47:56Z",
+    "generated_at": "2026-11-28T06:47:23Z",
+    "next_update_at": "2026-11-28T12:46:18Z",
     "training": {
       "n_matches": 4052,
       "date_range": "2024-08-15 → 2026-11-23",
@@ -18,129 +18,8 @@
   },
   "days": [
     {
-      "date": "2026-11-27",
-      "is_today": true,
-      "fixtures_count": 2,
-      "fixtures": [
-        {
-          "home": "Werder Bremen",
-          "away": "M'gladbach",
-          "league": "D1",
-          "league_name": "Bundesliga",
-          "kickoff": "2026-11-27T19:30:00Z",
-          "xg": [
-            2.34,
-            1.01
-          ],
-          "best_pick": {
-            "market": "+1.5",
-            "selection": "2 buts ou plus",
-            "probability": 0.8499,
-            "fair_odds": 1.18
-          },
-          "top_markets": [
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.8499,
-              "fair_odds": 1.18
-            },
-            {
-              "market": "1X",
-              "selection": "Werder Bremen ou nul",
-              "probability": 0.8175,
-              "fair_odds": 1.22
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.8071,
-              "fair_odds": 1.24
-            },
-            {
-              "market": "+2.5",
-              "selection": "3 buts ou plus",
-              "probability": 0.6513,
-              "fair_odds": 1.54
-            },
-            {
-              "market": "1",
-              "selection": "Victoire Werder Bremen",
-              "probability": 0.6246,
-              "fair_odds": 1.6
-            },
-            {
-              "market": "BTTS Oui",
-              "selection": "Les deux marquent",
-              "probability": 0.5771,
-              "fair_odds": 1.73
-            }
-          ]
-        },
-        {
-          "home": "Brest",
-          "away": "Paris FC",
-          "league": "F1",
-          "league_name": "Ligue 1",
-          "kickoff": "2026-11-27T19:45:00Z",
-          "xg": [
-            1.29,
-            1.35
-          ],
-          "best_pick": {
-            "market": "+1.5",
-            "selection": "2 buts ou plus",
-            "probability": 0.7432,
-            "fair_odds": 1.35
-          },
-          "top_markets": [
-            {
-              "market": "+1.5",
-              "selection": "2 buts ou plus",
-              "probability": 0.7432,
-              "fair_odds": 1.35
-            },
-            {
-              "market": "12",
-              "selection": "Pas de nul",
-              "probability": 0.7257,
-              "fair_odds": 1.38
-            },
-            {
-              "market": "X2",
-              "selection": "Paris FC ou nul",
-              "probability": 0.6394,
-              "fair_odds": 1.56
-            },
-            {
-              "market": "1X",
-              "selection": "Brest ou nul",
-              "probability": 0.6349,
-              "fair_odds": 1.58
-            },
-            {
-              "market": "BTTS Oui",
-              "selection": "Les deux marquent",
-              "probability": 0.5398,
-              "fair_odds": 1.85
-            },
-            {
-              "market": "-2.5",
-              "selection": "Moins de 3 buts",
-              "probability": 0.5085,
-              "fair_odds": 1.97
-            }
-          ]
-        }
-      ],
-      "combo": {
-        "available": false,
-        "reason": "Pas assez de sélections au-dessus de 65% de confiance (2 disponibles, 4 requises)."
-      }
-    },
-    {
       "date": "2026-11-28",
-      "is_today": false,
+      "is_today": true,
       "fixtures_count": 19,
       "fixtures": [
         {
@@ -2447,6 +2326,72 @@
       "combo": {
         "available": false,
         "reason": "Pas assez de sélections au-dessus de 65% de confiance (3 disponibles, 4 requises)."
+      }
+    },
+    {
+      "date": "2026-12-01",
+      "is_today": false,
+      "fixtures_count": 1,
+      "fixtures": [
+        {
+          "home": "Coventry",
+          "away": "Ipswich",
+          "league": "E0",
+          "league_name": "Premier League",
+          "kickoff": "2026-12-01T20:00:00Z",
+          "xg": [
+            2.37,
+            1.87
+          ],
+          "best_pick": {
+            "market": "+1.5",
+            "selection": "2 buts ou plus",
+            "probability": 0.9264,
+            "fair_odds": 1.08
+          },
+          "top_markets": [
+            {
+              "market": "+1.5",
+              "selection": "2 buts ou plus",
+              "probability": 0.9264,
+              "fair_odds": 1.08
+            },
+            {
+              "market": "12",
+              "selection": "Pas de nul",
+              "probability": 0.8133,
+              "fair_odds": 1.23
+            },
+            {
+              "market": "+2.5",
+              "selection": "3 buts ou plus",
+              "probability": 0.7956,
+              "fair_odds": 1.26
+            },
+            {
+              "market": "BTTS Oui",
+              "selection": "Les deux marquent",
+              "probability": 0.769,
+              "fair_odds": 1.3
+            },
+            {
+              "market": "1X",
+              "selection": "Coventry ou nul",
+              "probability": 0.7212,
+              "fair_odds": 1.39
+            },
+            {
+              "market": "1",
+              "selection": "Victoire Coventry",
+              "probability": 0.5344,
+              "fair_odds": 1.87
+            }
+          ]
+        }
+      ],
+      "combo": {
+        "available": false,
+        "reason": "Pas assez de sélections au-dessus de 65% de confiance (1 disponibles, 4 requises)."
       }
     }
   ]
